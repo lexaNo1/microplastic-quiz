@@ -1,0 +1,1001 @@
+varsta,sursa_de_apa,alimente_procesate,peste_sau_fructe_de_mare,recipiente_de_plastic,haine_sintetice,tipul_zonei,mediul_de_lucru,ore_petrecute_in_interior,tipul_de_sare,fumatul,cosmetice,mg_total
+39,Tap_water,3 times a week,0,Never,83,Industrial,Office,7,Regular salt,Yes,Every day,41.730500000000006
+38,Filtred_water,3 times a week,12,5 times a week,7,Industrial,Factory/Industrial,4,Sea salt,No,3 times a week,50.94000000000001
+20,Bottled_water,Never,9,Every day,28,Industrial,Home,18,Regular salt,No,Once a week,75.425
+54,Tap_water,Never,14,Once a week,84,Urban,Outdoors,13,Sea salt,No,5 times a week,37.477000000000004
+40,Tap_water,3 times a week,2,5 times a week,83,Urban,Outdoors,11,Sea salt,Yes,Never,49.472
+49,Tap_water,Never,11,5 times a week,23,Urban,Office,4,Sea salt,No,Once a week,27.8205
+29,Filtred_water,Never,6,Never,79,Rural,Home,10,Sea salt,No,3 times a week,30.170499999999997
+35,Tap_water,Once a week,12,5 times a week,79,Urban,Home,5,Regular salt,Yes,Every day,48.44600000000001
+42,Tap_water,Once a week,4,5 times a week,45,Urban,Factory/Industrial,0,Regular salt,Occasionally,Never,32.7145
+65,Filtred_water,Never,3,5 times a week,81,Rural,Office,9,Regular salt,No,5 times a week,44.36900000000001
+69,Tap_water,3 times a week,7,Every day,42,Urban,Home,17,Sea salt,No,3 times a week,64.356
+35,Tap_water,3 times a week,6,Once a week,72,Urban,Factory/Industrial,8,Regular salt,Occasionally,Every day,47.99850000000001
+42,Bottled_water,3 times a week,7,5 times a week,10,Rural,Outdoors,11,Regular salt,No,Once a week,64.83200000000001
+78,Filtred_water,5 times a week,11,Every day,8,Urban,Factory/Industrial,17,Regular salt,No,Once a week,77.358
+58,Bottled_water,Every day,5,Once a week,29,Industrial,Office,4,Sea salt,No,3 times a week,79.215
+41,Tap_water,Every day,7,Never,17,Rural,Office,18,Sea salt,Yes,5 times a week,67.1995
+57,Tap_water,3 times a week,1,Every day,51,Rural,Factory/Industrial,15,Regular salt,Occasionally,3 times a week,67.184
+34,Tap_water,3 times a week,10,Every day,60,Industrial,Factory/Industrial,17,Sea salt,No,Once a week,70.9925
+24,Filtred_water,Once a week,10,5 times a week,32,Industrial,Home,8,Regular salt,Occasionally,Never,40.827000000000005
+45,Tap_water,Never,8,Never,39,Urban,Home,16,Sea salt,Occasionally,5 times a week,30.3125
+51,Filtred_water,Once a week,3,5 times a week,87,Rural,Home,3,Sea salt,No,3 times a week,41.18500000000001
+69,Filtred_water,Never,11,Every day,11,Industrial,Outdoors,10,Sea salt,Yes,5 times a week,59.07200000000001
+21,Filtred_water,Once a week,10,3 times a week,93,Industrial,Factory/Industrial,1,Regular salt,Yes,Never,43.540500000000016
+38,Bottled_water,3 times a week,13,5 times a week,84,Rural,Factory/Industrial,12,Sea salt,Yes,Every day,89.91350000000001
+40,Filtred_water,5 times a week,12,5 times a week,78,Industrial,Office,18,Regular salt,No,Once a week,69.08200000000001
+62,Tap_water,3 times a week,12,5 times a week,49,Rural,Home,22,Regular salt,Yes,Every day,65.0525
+72,Filtred_water,5 times a week,5,Every day,24,Urban,Outdoors,8,Sea salt,Occasionally,Every day,74.51950000000001
+35,Filtred_water,Every day,9,Once a week,34,Rural,Home,3,Regular salt,Yes,3 times a week,63.12500000000001
+59,Tap_water,3 times a week,6,Every day,76,Urban,Home,8,Regular salt,Occasionally,Never,57.968500000000006
+52,Bottled_water,5 times a week,13,Never,42,Urban,Office,4,Sea salt,Occasionally,Every day,67.70750000000001
+43,Tap_water,Every day,10,Never,48,Industrial,Outdoors,5,Regular salt,Occasionally,Never,55.846500000000006
+72,Filtred_water,Once a week,7,Once a week,5,Rural,Outdoors,12,Regular salt,Yes,Every day,39.6065
+52,Bottled_water,Every day,8,Once a week,52,Urban,Factory/Industrial,10,Sea salt,Occasionally,Never,88.33549999999998
+51,Filtred_water,5 times a week,11,Every day,27,Industrial,Outdoors,14,Regular salt,No,3 times a week,76.574
+42,Bottled_water,Once a week,10,Every day,95,Rural,Office,3,Regular salt,Yes,Never,75.294
+60,Tap_water,3 times a week,10,Every day,53,Rural,Factory/Industrial,2,Regular salt,No,Never,55.8645
+25,Tap_water,Once a week,4,3 times a week,13,Urban,Outdoors,21,Sea salt,Yes,3 times a week,41.849000000000004
+57,Bottled_water,Never,14,Once a week,57,Industrial,Home,10,Sea salt,Occasionally,5 times a week,56.828
+48,Tap_water,Never,2,Every day,54,Urban,Home,0,Regular salt,No,Every day,44.813500000000005
+42,Filtred_water,3 times a week,5,Never,36,Rural,Factory/Industrial,13,Sea salt,Occasionally,Every day,49.751000000000005
+30,Bottled_water,3 times a week,7,Every day,86,Industrial,Office,16,Sea salt,Yes,Every day,100.90100000000001
+63,Bottled_water,Once a week,1,3 times a week,77,Rural,Home,7,Regular salt,Yes,Never,54.647
+21,Tap_water,Once a week,12,Never,80,Rural,Office,11,Sea salt,Occasionally,Never,29.381000000000004
+70,Tap_water,Once a week,7,Never,89,Rural,Factory/Industrial,1,Regular salt,No,3 times a week,28.214000000000002
+64,Tap_water,Never,3,5 times a week,86,Rural,Outdoors,17,Sea salt,Yes,3 times a week,46.98700000000001
+57,Filtred_water,Never,6,Never,39,Rural,Factory/Industrial,2,Sea salt,Occasionally,Never,22.339499999999997
+42,Filtred_water,Every day,6,Once a week,15,Industrial,Outdoors,16,Sea salt,Yes,Every day,77.763
+25,Filtred_water,3 times a week,9,Every day,18,Urban,Outdoors,23,Sea salt,Occasionally,Once a week,72.08099999999999
+71,Bottled_water,5 times a week,7,Never,56,Urban,Office,5,Regular salt,Occasionally,5 times a week,65.238
+43,Filtred_water,Once a week,0,Once a week,16,Industrial,Home,0,Regular salt,Yes,Never,20.815999999999995
+36,Filtred_water,Never,11,5 times a week,60,Urban,Factory/Industrial,4,Sea salt,Yes,Every day,52.0215
+43,Bottled_water,Every day,11,Once a week,65,Rural,Home,0,Sea salt,Yes,Never,79.24549999999999
+34,Tap_water,Every day,4,Never,82,Rural,Outdoors,2,Sea salt,Occasionally,Once a week,54.5165
+42,Bottled_water,5 times a week,5,Once a week,28,Rural,Office,0,Sea salt,Occasionally,Never,53.5535
+73,Tap_water,Every day,6,Once a week,78,Rural,Factory/Industrial,14,Sea salt,Yes,Every day,79.9545
+72,Tap_water,Never,14,Never,76,Urban,Home,18,Sea salt,Occasionally,Once a week,32.88549999999999
+68,Filtred_water,Once a week,4,5 times a week,88,Urban,Office,0,Regular salt,No,5 times a week,42.786500000000004
+64,Tap_water,Every day,10,5 times a week,61,Rural,Factory/Industrial,6,Regular salt,Yes,Once a week,76.4105
+68,Tap_water,5 times a week,14,Never,23,Urban,Outdoors,11,Regular salt,Yes,5 times a week,48.10800000000001
+69,Bottled_water,Never,4,Once a week,99,Industrial,Office,12,Sea salt,Occasionally,Once a week,54.462
+18,Tap_water,Once a week,14,Every day,40,Urban,Office,1,Regular salt,Occasionally,Every day,53.592
+42,Tap_water,5 times a week,12,Once a week,63,Urban,Home,3,Sea salt,Yes,5 times a week,46.92500000000001
+61,Filtred_water,5 times a week,4,Every day,22,Industrial,Factory/Industrial,10,Sea salt,Occasionally,Every day,80.554
+72,Bottled_water,3 times a week,8,Every day,30,Urban,Factory/Industrial,15,Sea salt,Occasionally,Never,87.79999999999998
+33,Filtred_water,5 times a week,8,5 times a week,93,Industrial,Office,4,Regular salt,No,Every day,65.94300000000001
+54,Filtred_water,Never,4,Once a week,16,Rural,Office,16,Sea salt,Occasionally,3 times a week,31.5495
+37,Filtred_water,Once a week,10,Once a week,58,Urban,Office,10,Regular salt,Yes,Never,35.79550000000001
+71,Bottled_water,5 times a week,5,3 times a week,20,Rural,Office,3,Regular salt,No,Every day,67.85
+24,Filtred_water,Every day,12,Once a week,97,Urban,Factory/Industrial,1,Sea salt,Occasionally,5 times a week,75.61299999999999
+55,Filtred_water,5 times a week,8,Every day,32,Rural,Outdoors,8,Sea salt,No,Never,66.0285
+41,Tap_water,5 times a week,13,3 times a week,68,Urban,Office,4,Sea salt,No,3 times a week,48.724500000000006
+32,Filtred_water,5 times a week,0,Once a week,69,Industrial,Factory/Industrial,21,Regular salt,Yes,Every day,70.83050000000001
+24,Tap_water,Never,14,3 times a week,76,Urban,Factory/Industrial,15,Sea salt,Occasionally,5 times a week,48.48800000000001
+43,Tap_water,3 times a week,6,Never,70,Industrial,Office,5,Regular salt,Occasionally,Every day,39.204499999999996
+51,Tap_water,3 times a week,6,3 times a week,16,Industrial,Outdoors,13,Regular salt,Yes,5 times a week,47.57950000000001
+30,Tap_water,Every day,9,Every day,49,Urban,Outdoors,0,Regular salt,Occasionally,5 times a week,82.93549999999998
+51,Filtred_water,Once a week,5,Once a week,91,Urban,Office,11,Sea salt,No,5 times a week,41.50600000000001
+37,Tap_water,Once a week,12,Every day,54,Industrial,Factory/Industrial,22,Sea salt,No,Once a week,67.64900000000002
+49,Bottled_water,Never,10,Once a week,46,Rural,Factory/Industrial,11,Regular salt,Yes,Never,54.035000000000004
+47,Tap_water,Once a week,1,Once a week,53,Urban,Outdoors,5,Regular salt,No,Once a week,22.025000000000002
+62,Tap_water,Once a week,14,Every day,94,Industrial,Office,22,Sea salt,Yes,3 times a week,73.208
+20,Bottled_water,Never,3,3 times a week,39,Rural,Factory/Industrial,15,Regular salt,Occasionally,Once a week,58.44799999999999
+22,Tap_water,5 times a week,14,Never,45,Industrial,Factory/Industrial,10,Regular salt,Occasionally,Once a week,47.886
+37,Tap_water,Every day,8,Never,92,Rural,Home,3,Regular salt,Yes,Once a week,58.497
+59,Filtred_water,Once a week,2,3 times a week,55,Industrial,Home,23,Regular salt,Occasionally,3 times a week,50.348499999999994
+76,Tap_water,Once a week,9,Never,27,Rural,Outdoors,1,Regular salt,Yes,Once a week,18.903000000000002
+35,Filtred_water,5 times a week,4,5 times a week,96,Urban,Home,15,Sea salt,Yes,Never,66.00300000000001
+20,Tap_water,Once a week,1,3 times a week,4,Industrial,Office,8,Sea salt,Occasionally,Once a week,25.863999999999997
+68,Bottled_water,Once a week,2,3 times a week,93,Urban,Outdoors,15,Sea salt,No,Never,61.57800000000001
+48,Bottled_water,Every day,0,Every day,27,Rural,Outdoors,20,Regular salt,Yes,Never,111.10249999999999
+18,Tap_water,Every day,14,3 times a week,91,Industrial,Office,9,Regular salt,Yes,5 times a week,79.9755
+62,Bottled_water,5 times a week,12,Once a week,75,Urban,Home,1,Regular salt,Yes,5 times a week,70.028
+49,Bottled_water,Never,12,3 times a week,72,Rural,Factory/Industrial,9,Regular salt,No,Never,58.214
+62,Bottled_water,3 times a week,13,3 times a week,45,Urban,Outdoors,4,Regular salt,No,5 times a week,65.6665
+63,Bottled_water,Never,3,Every day,51,Industrial,Home,11,Sea salt,Yes,3 times a week,75.69550000000001
+38,Filtred_water,Once a week,14,5 times a week,78,Industrial,Office,0,Regular salt,Occasionally,Once a week,42.548
+65,Filtred_water,5 times a week,5,Never,75,Rural,Factory/Industrial,12,Sea salt,No,Never,50.4895
+23,Bottled_water,5 times a week,9,Every day,81,Industrial,Factory/Industrial,9,Regular salt,Occasionally,Once a week,98.4435
+37,Bottled_water,5 times a week,3,Never,81,Rural,Factory/Industrial,8,Sea salt,Yes,5 times a week,74.67949999999999
+68,Bottled_water,3 times a week,4,5 times a week,27,Urban,Office,8,Sea salt,Occasionally,5 times a week,69.1615
+66,Tap_water,Once a week,1,Once a week,38,Rural,Office,8,Regular salt,Occasionally,Never,21.297499999999996
+46,Bottled_water,Every day,4,3 times a week,84,Industrial,Outdoors,8,Sea salt,Yes,Never,92.74300000000001
+38,Filtred_water,5 times a week,13,Never,9,Rural,Office,21,Regular salt,Yes,Never,51.599000000000004
+48,Tap_water,5 times a week,1,Never,90,Rural,Factory/Industrial,8,Sea salt,No,3 times a week,46.0715
+43,Tap_water,5 times a week,13,Once a week,16,Urban,Outdoors,19,Sea salt,No,5 times a week,52.84
+69,Tap_water,Once a week,6,3 times a week,31,Industrial,Outdoors,5,Sea salt,Occasionally,3 times a week,31.418499999999998
+48,Bottled_water,Every day,4,3 times a week,16,Urban,Outdoors,2,Regular salt,Occasionally,3 times a week,81.92049999999999
+77,Bottled_water,3 times a week,10,5 times a week,81,Rural,Home,4,Sea salt,Yes,Once a week,69.7795
+36,Tap_water,3 times a week,7,Never,43,Industrial,Outdoors,10,Regular salt,No,5 times a week,37.732
+68,Bottled_water,5 times a week,8,3 times a week,73,Rural,Factory/Industrial,17,Sea salt,Yes,5 times a week,90.36599999999999
+58,Bottled_water,5 times a week,0,Once a week,25,Urban,Factory/Industrial,2,Regular salt,Yes,Once a week,61.34450000000001
+19,Filtred_water,Every day,7,Every day,95,Rural,Outdoors,2,Sea salt,Yes,Never,88.73749999999998
+54,Tap_water,Every day,12,5 times a week,20,Rural,Office,2,Sea salt,Occasionally,5 times a week,68.24249999999999
+30,Filtred_water,3 times a week,9,3 times a week,31,Urban,Home,18,Sea salt,No,Every day,56.698499999999996
+69,Bottled_water,5 times a week,5,3 times a week,89,Urban,Factory/Industrial,0,Regular salt,No,5 times a week,75.55949999999999
+36,Filtred_water,Once a week,9,Every day,86,Industrial,Outdoors,14,Sea salt,Yes,Every day,75.34600000000002
+42,Tap_water,Never,3,5 times a week,99,Rural,Office,13,Regular salt,Yes,Never,40.787000000000006
+29,Bottled_water,5 times a week,10,Every day,30,Rural,Home,11,Regular salt,Yes,3 times a week,92.605
+76,Bottled_water,5 times a week,14,Never,16,Urban,Factory/Industrial,18,Sea salt,No,Never,71.0125
+40,Tap_water,5 times a week,4,Never,79,Industrial,Outdoors,9,Sea salt,Occasionally,Once a week,43.0125
+46,Filtred_water,3 times a week,11,3 times a week,25,Rural,Factory/Industrial,8,Regular salt,Yes,Every day,56.5715
+40,Filtred_water,Once a week,13,Every day,30,Urban,Factory/Industrial,8,Regular salt,No,Never,57.6675
+75,Filtred_water,5 times a week,12,Never,73,Industrial,Office,0,Sea salt,Occasionally,Every day,50.36
+24,Filtred_water,Once a week,7,5 times a week,7,Industrial,Factory/Industrial,2,Sea salt,No,Every day,45.29900000000001
+61,Bottled_water,Never,10,Never,99,Urban,Factory/Industrial,21,Regular salt,No,5 times a week,68.516
+67,Filtred_water,3 times a week,11,Once a week,65,Industrial,Office,1,Regular salt,No,Every day,44.1435
+64,Filtred_water,Never,1,Never,51,Industrial,Outdoors,10,Sea salt,Occasionally,Never,25.526999999999997
+29,Bottled_water,5 times a week,5,5 times a week,77,Industrial,Office,21,Regular salt,Occasionally,Every day,95.51250000000002
+62,Bottled_water,5 times a week,12,Never,7,Urban,Factory/Industrial,6,Sea salt,Occasionally,Once a week,62.49350000000001
+65,Filtred_water,5 times a week,8,3 times a week,22,Rural,Office,15,Sea salt,Yes,3 times a week,58.087999999999994
+62,Tap_water,Every day,9,3 times a week,59,Industrial,Outdoors,4,Sea salt,Yes,Every day,74.233
+43,Bottled_water,Once a week,11,3 times a week,80,Urban,Office,5,Sea salt,Occasionally,Once a week,57.449999999999996
+60,Tap_water,Once a week,3,5 times a week,77,Urban,Home,21,Sea salt,Yes,Once a week,49.75
+67,Tap_water,Once a week,5,3 times a week,3,Industrial,Outdoors,19,Regular salt,Occasionally,5 times a week,41.3575
+39,Bottled_water,3 times a week,6,Every day,99,Rural,Office,7,Regular salt,No,3 times a week,85.424
+43,Filtred_water,Once a week,10,Every day,76,Industrial,Office,8,Regular salt,No,3 times a week,61.416999999999994
+53,Filtred_water,Never,0,3 times a week,5,Rural,Office,17,Regular salt,Yes,3 times a week,36.729
+76,Filtred_water,Never,9,5 times a week,30,Rural,Office,22,Regular salt,Yes,3 times a week,51.63750000000001
+33,Filtred_water,3 times a week,12,5 times a week,50,Rural,Office,23,Sea salt,Occasionally,Never,60.939
+55,Bottled_water,5 times a week,11,Once a week,65,Industrial,Factory/Industrial,4,Sea salt,Yes,3 times a week,74.608
+22,Bottled_water,Every day,10,Every day,54,Industrial,Outdoors,20,Regular salt,No,Never,116.27299999999998
+24,Tap_water,Once a week,7,Every day,35,Industrial,Home,15,Regular salt,Yes,3 times a week,58.78150000000001
+36,Bottled_water,Every day,0,5 times a week,26,Urban,Outdoors,18,Regular salt,Occasionally,3 times a week,98.96849999999998
+79,Bottled_water,Once a week,7,3 times a week,33,Rural,Home,0,Regular salt,Yes,Every day,55.6255
+54,Tap_water,Once a week,14,Every day,41,Rural,Factory/Industrial,21,Regular salt,No,Every day,72.092
+70,Filtred_water,Once a week,5,Never,91,Rural,Outdoors,4,Sea salt,No,Never,27.446500000000004
+68,Tap_water,Never,10,Every day,33,Industrial,Factory/Industrial,4,Sea salt,Occasionally,Once a week,48.39500000000001
+68,Tap_water,Never,8,Never,19,Urban,Office,9,Sea salt,No,3 times a week,19.641
+56,Filtred_water,Every day,0,3 times a week,34,Urban,Office,2,Regular salt,Yes,3 times a week,65.2315
+49,Filtred_water,Once a week,8,Every day,97,Urban,Factory/Industrial,1,Regular salt,Yes,Never,60.37000000000001
+50,Tap_water,Never,12,5 times a week,24,Rural,Factory/Industrial,4,Regular salt,Occasionally,Never,32.284499999999994
+51,Tap_water,5 times a week,6,3 times a week,16,Industrial,Home,21,Regular salt,Occasionally,5 times a week,58.07150000000001
+18,Bottled_water,Never,8,Every day,46,Industrial,Outdoors,23,Regular salt,Occasionally,5 times a week,87.94749999999999
+42,Bottled_water,3 times a week,7,Never,58,Rural,Office,22,Regular salt,Yes,Once a week,67.4455
+30,Tap_water,3 times a week,13,Once a week,2,Industrial,Home,0,Regular salt,No,3 times a week,26.995999999999995
+53,Bottled_water,Every day,3,Never,70,Rural,Factory/Industrial,9,Regular salt,Occasionally,Every day,93.16099999999999
+60,Tap_water,5 times a week,5,Never,75,Rural,Office,1,Sea salt,Yes,5 times a week,41.27300000000001
+40,Tap_water,5 times a week,6,Every day,89,Urban,Factory/Industrial,13,Sea salt,No,3 times a week,78.204
+39,Tap_water,Every day,0,Once a week,60,Urban,Outdoors,12,Sea salt,No,5 times a week,65.5185
+71,Filtred_water,5 times a week,8,Every day,17,Industrial,Office,2,Regular salt,No,Once a week,62.018
+42,Tap_water,3 times a week,7,3 times a week,20,Industrial,Outdoors,9,Regular salt,No,Once a week,37.3815
+31,Tap_water,Once a week,5,Once a week,3,Industrial,Office,4,Regular salt,Yes,Once a week,20.763
+50,Tap_water,5 times a week,3,Every day,81,Urban,Home,11,Sea salt,No,Never,65.893
+40,Bottled_water,Never,3,5 times a week,35,Industrial,Outdoors,8,Regular salt,No,Every day,61.887
+63,Tap_water,Never,8,Every day,98,Urban,Outdoors,16,Sea salt,Yes,Never,59.12850000000001
+18,Tap_water,Never,0,Every day,37,Rural,Factory/Industrial,12,Sea salt,No,5 times a week,53.557500000000005
+48,Bottled_water,5 times a week,5,Every day,92,Industrial,Outdoors,9,Regular salt,No,Once a week,93.0215
+28,Tap_water,Never,3,Never,36,Industrial,Office,16,Sea salt,Occasionally,Never,23.364
+49,Bottled_water,3 times a week,8,5 times a week,4,Urban,Home,21,Regular salt,No,Once a week,71.726
+64,Filtred_water,5 times a week,3,3 times a week,23,Rural,Factory/Industrial,11,Sea salt,Yes,5 times a week,60.547000000000004
+42,Filtred_water,3 times a week,7,5 times a week,63,Rural,Factory/Industrial,2,Sea salt,Occasionally,Never,49.1195
+35,Tap_water,Every day,3,5 times a week,9,Urban,Office,13,Sea salt,Yes,Never,68.423
+25,Tap_water,5 times a week,4,Never,46,Urban,Office,19,Sea salt,Yes,3 times a week,49.778000000000006
+18,Tap_water,3 times a week,1,3 times a week,34,Rural,Factory/Industrial,10,Sea salt,Occasionally,5 times a week,45.89150000000001
+23,Bottled_water,Every day,4,Never,63,Industrial,Office,14,Regular salt,No,Every day,92.432
+23,Tap_water,5 times a week,2,Every day,71,Rural,Outdoors,11,Sea salt,Occasionally,3 times a week,69.839
+67,Tap_water,Never,13,3 times a week,72,Rural,Home,14,Sea salt,Yes,5 times a week,43.07250000000001
+22,Filtred_water,Never,2,5 times a week,24,Urban,Home,9,Regular salt,Occasionally,Never,33.150999999999996
+55,Filtred_water,Once a week,7,Every day,86,Urban,Home,8,Sea salt,Yes,5 times a week,65.3695
+55,Bottled_water,Every day,11,Never,97,Urban,Factory/Industrial,9,Sea salt,Occasionally,Every day,99.47699999999998
+65,Bottled_water,Every day,8,Never,84,Rural,Factory/Industrial,12,Sea salt,No,3 times a week,92.6615
+67,Bottled_water,3 times a week,13,Never,86,Urban,Factory/Industrial,8,Sea salt,No,5 times a week,69.2235
+55,Tap_water,5 times a week,8,Every day,93,Urban,Office,12,Sea salt,Occasionally,3 times a week,74.93149999999999
+45,Bottled_water,Never,14,Never,42,Industrial,Home,3,Sea salt,No,3 times a week,43.71150000000001
+55,Tap_water,Once a week,1,5 times a week,38,Urban,Office,11,Regular salt,Occasionally,5 times a week,40.821000000000005
+33,Bottled_water,Never,9,Every day,42,Urban,Home,15,Regular salt,Occasionally,Never,73.36999999999999
+51,Tap_water,Never,13,Never,30,Urban,Home,21,Regular salt,Occasionally,Once a week,30.025
+71,Tap_water,Every day,10,Once a week,5,Urban,Office,20,Regular salt,Occasionally,5 times a week,69.9235
+22,Filtred_water,5 times a week,11,Once a week,69,Urban,Factory/Industrial,9,Regular salt,Occasionally,Every day,62.753
+47,Bottled_water,3 times a week,14,Once a week,31,Rural,Factory/Industrial,21,Sea salt,Occasionally,Once a week,71.951
+67,Tap_water,Never,14,Once a week,85,Industrial,Office,3,Sea salt,Yes,3 times a week,30.668499999999995
+73,Bottled_water,3 times a week,14,Never,90,Industrial,Office,18,Sea salt,No,Once a week,68.99000000000001
+44,Bottled_water,Every day,2,Once a week,82,Rural,Outdoors,4,Regular salt,No,Every day,87.7025
+25,Filtred_water,5 times a week,6,3 times a week,20,Rural,Outdoors,0,Sea salt,Yes,Never,42.6405
+34,Bottled_water,3 times a week,3,Once a week,18,Rural,Outdoors,1,Regular salt,Yes,Once a week,49.063
+77,Filtred_water,Every day,3,Once a week,21,Industrial,Home,9,Regular salt,Occasionally,Every day,68.9975
+32,Filtred_water,3 times a week,6,Once a week,78,Urban,Home,8,Sea salt,Occasionally,3 times a week,43.7325
+41,Bottled_water,Never,8,3 times a week,25,Rural,Home,8,Sea salt,Occasionally,Never,47.1005
+69,Bottled_water,3 times a week,6,Never,9,Urban,Home,13,Regular salt,Yes,3 times a week,57.80200000000001
+43,Filtred_water,Never,11,Every day,74,Urban,Outdoors,21,Regular salt,Yes,3 times a week,70.489
+76,Filtred_water,Once a week,6,Every day,96,Industrial,Factory/Industrial,5,Sea salt,Yes,Every day,72.41050000000001
+34,Bottled_water,Once a week,10,Once a week,40,Industrial,Office,11,Sea salt,Yes,Never,53.96050000000001
+40,Filtred_water,5 times a week,13,Never,82,Urban,Outdoors,12,Sea salt,Yes,5 times a week,59.85850000000001
+60,Bottled_water,Never,4,Every day,2,Urban,Office,10,Regular salt,No,5 times a week,69.0675
+55,Filtred_water,Once a week,1,Never,52,Urban,Factory/Industrial,17,Regular salt,Occasionally,5 times a week,43.821000000000005
+60,Tap_water,Once a week,10,5 times a week,47,Urban,Office,19,Regular salt,Occasionally,5 times a week,51.165000000000006
+31,Filtred_water,3 times a week,11,Once a week,35,Rural,Office,12,Sea salt,Yes,5 times a week,48.24850000000001
+45,Bottled_water,Every day,4,3 times a week,9,Industrial,Factory/Industrial,13,Sea salt,Yes,3 times a week,96.53450000000001
+24,Filtred_water,Never,12,5 times a week,4,Urban,Factory/Industrial,22,Regular salt,Yes,Once a week,52.85850000000001
+64,Bottled_water,Once a week,12,3 times a week,4,Industrial,Factory/Industrial,6,Sea salt,No,Once a week,55.385000000000005
+58,Filtred_water,Once a week,9,Never,42,Rural,Factory/Industrial,14,Regular salt,Yes,3 times a week,42.13850000000001
+48,Bottled_water,5 times a week,11,5 times a week,38,Industrial,Outdoors,18,Sea salt,Yes,3 times a week,88.916
+48,Bottled_water,Once a week,7,3 times a week,66,Urban,Factory/Industrial,21,Regular salt,Yes,3 times a week,75.856
+52,Filtred_water,3 times a week,8,Never,12,Industrial,Home,0,Regular salt,Yes,5 times a week,34.232
+62,Tap_water,Never,3,5 times a week,79,Rural,Home,15,Regular salt,Occasionally,Once a week,39.298
+72,Tap_water,3 times a week,5,5 times a week,86,Rural,Home,13,Sea salt,No,Every day,56.54600000000001
+33,Bottled_water,Once a week,0,5 times a week,93,Rural,Outdoors,8,Regular salt,Occasionally,3 times a week,64.9275
+38,Tap_water,3 times a week,12,Never,16,Industrial,Factory/Industrial,20,Regular salt,No,Once a week,43.431999999999995
+32,Tap_water,Never,6,Once a week,78,Industrial,Factory/Industrial,5,Regular salt,Yes,Once a week,30.7985
+70,Bottled_water,3 times a week,5,Never,32,Rural,Office,20,Regular salt,Occasionally,Every day,68.1435
+44,Bottled_water,5 times a week,8,Every day,11,Rural,Outdoors,18,Sea salt,Occasionally,5 times a week,97.04449999999999
+57,Bottled_water,Never,2,3 times a week,68,Industrial,Factory/Industrial,9,Regular salt,Occasionally,Never,56.895500000000006
+79,Tap_water,Once a week,1,5 times a week,79,Industrial,Home,14,Sea salt,No,Never,40.755
+40,Bottled_water,5 times a week,6,Every day,74,Rural,Home,8,Sea salt,Yes,Never,89.6935
+28,Tap_water,3 times a week,12,Every day,4,Urban,Factory/Industrial,22,Regular salt,No,3 times a week,71.1545
+47,Bottled_water,3 times a week,3,3 times a week,70,Urban,Home,18,Sea salt,Occasionally,Never,69.1295
+60,Tap_water,Never,1,3 times a week,6,Rural,Factory/Industrial,14,Regular salt,Occasionally,Never,28.873499999999996
+65,Tap_water,5 times a week,0,5 times a week,24,Rural,Factory/Industrial,16,Regular salt,Yes,5 times a week,63.37950000000001
+20,Tap_water,Once a week,6,Once a week,4,Rural,Outdoors,4,Regular salt,No,Never,16.150499999999997
+34,Bottled_water,Never,13,3 times a week,95,Rural,Factory/Industrial,3,Regular salt,No,5 times a week,62.611000000000004
+36,Bottled_water,5 times a week,12,Once a week,28,Urban,Outdoors,9,Sea salt,Yes,Every day,74.87500000000001
+48,Bottled_water,3 times a week,11,3 times a week,76,Rural,Outdoors,15,Sea salt,Occasionally,5 times a week,77.11699999999999
+39,Tap_water,3 times a week,1,Every day,91,Industrial,Home,3,Sea salt,Yes,Once a week,58.01950000000001
+60,Bottled_water,3 times a week,11,Every day,92,Urban,Factory/Industrial,5,Regular salt,Yes,Never,89.48799999999999
+36,Tap_water,Every day,0,Every day,78,Urban,Outdoors,10,Regular salt,Occasionally,Every day,92.83649999999999
+67,Bottled_water,Never,0,Every day,67,Industrial,Office,8,Regular salt,Yes,Once a week,71.825
+70,Tap_water,3 times a week,6,Never,69,Urban,Home,22,Sea salt,Occasionally,3 times a week,45.727500000000006
+65,Bottled_water,3 times a week,4,Once a week,98,Rural,Outdoors,15,Regular salt,Yes,3 times a week,70.974
+46,Bottled_water,3 times a week,12,5 times a week,56,Industrial,Home,2,Sea salt,Yes,3 times a week,70.513
+25,Filtred_water,Every day,3,5 times a week,68,Industrial,Home,1,Regular salt,Occasionally,5 times a week,75.65749999999997
+26,Filtred_water,5 times a week,11,Never,37,Rural,Factory/Industrial,4,Regular salt,Yes,5 times a week,51.737500000000004
+47,Filtred_water,Every day,11,3 times a week,69,Rural,Outdoors,8,Sea salt,Yes,Never,73.8885
+33,Bottled_water,5 times a week,14,Once a week,94,Rural,Home,14,Sea salt,No,Never,72.9645
+65,Tap_water,5 times a week,6,Never,23,Urban,Home,11,Sea salt,Occasionally,Once a week,37.296
+24,Tap_water,Every day,0,Never,38,Rural,Factory/Industrial,20,Sea salt,Occasionally,Every day,73.78450000000001
+30,Filtred_water,Every day,10,Every day,77,Urban,Home,15,Regular salt,Occasionally,Every day,104.30999999999999
+54,Filtred_water,3 times a week,4,5 times a week,62,Urban,Outdoors,5,Sea salt,Occasionally,Once a week,48.040000000000006
+24,Tap_water,5 times a week,5,5 times a week,99,Industrial,Office,18,Sea salt,Yes,Once a week,66.45
+62,Tap_water,Every day,9,5 times a week,33,Industrial,Office,2,Sea salt,No,Once a week,64.058
+65,Filtred_water,Once a week,9,Never,43,Urban,Factory/Industrial,21,Regular salt,Yes,5 times a week,50.68800000000001
+44,Filtred_water,Every day,1,Every day,36,Industrial,Outdoors,22,Sea salt,No,Once a week,95.71799999999999
+46,Bottled_water,Every day,11,Every day,23,Industrial,Factory/Industrial,21,Sea salt,No,Never,118.20649999999999
+46,Tap_water,Once a week,12,Never,15,Rural,Factory/Industrial,14,Sea salt,No,Never,28.5705
+68,Bottled_water,5 times a week,12,3 times a week,63,Rural,Outdoors,1,Sea salt,No,Never,65.34299999999999
+77,Tap_water,5 times a week,13,Every day,80,Urban,Home,10,Sea salt,Yes,5 times a week,77.82249999999999
+64,Bottled_water,Never,1,3 times a week,63,Industrial,Factory/Industrial,22,Regular salt,No,3 times a week,68.625
+72,Filtred_water,Never,8,5 times a week,47,Industrial,Office,3,Sea salt,Yes,Every day,45.12450000000001
+69,Tap_water,5 times a week,1,Never,86,Rural,Outdoors,20,Regular salt,Yes,Never,50.00250000000001
+63,Bottled_water,5 times a week,11,3 times a week,40,Urban,Factory/Industrial,3,Sea salt,Occasionally,Never,69.814
+52,Bottled_water,3 times a week,11,3 times a week,61,Industrial,Outdoors,0,Regular salt,No,3 times a week,62.099000000000004
+23,Filtred_water,5 times a week,8,Every day,61,Industrial,Outdoors,3,Regular salt,Yes,Every day,78.49849999999999
+35,Filtred_water,Once a week,10,Never,82,Rural,Outdoors,16,Sea salt,Occasionally,Once a week,39.871500000000005
+21,Filtred_water,Every day,9,Never,4,Rural,Outdoors,8,Regular salt,Occasionally,Every day,65.4995
+72,Tap_water,Every day,13,5 times a week,39,Rural,Factory/Industrial,18,Regular salt,No,Once a week,81.49249999999999
+67,Bottled_water,Never,12,5 times a week,1,Rural,Office,23,Sea salt,No,Once a week,63.275999999999996
+68,Tap_water,Once a week,6,Once a week,29,Urban,Office,16,Sea salt,Occasionally,Every day,37.6455
+27,Bottled_water,Every day,7,Never,3,Industrial,Home,12,Sea salt,No,Never,76.66199999999999
+44,Filtred_water,Never,8,5 times a week,13,Urban,Home,8,Sea salt,Occasionally,Once a week,34.6845
+32,Filtred_water,3 times a week,12,Every day,49,Industrial,Office,22,Sea salt,Occasionally,3 times a week,78.455
+24,Tap_water,Once a week,11,Every day,59,Urban,Outdoors,21,Sea salt,Yes,Once a week,64.885
+27,Filtred_water,Never,8,Never,90,Rural,Outdoors,14,Regular salt,No,5 times a week,38.68750000000001
+37,Tap_water,Once a week,5,Once a week,44,Urban,Factory/Industrial,17,Sea salt,Occasionally,Never,35.617
+72,Bottled_water,3 times a week,2,5 times a week,44,Industrial,Home,10,Sea salt,Yes,Every day,76.74900000000001
+55,Tap_water,Every day,6,3 times a week,38,Urban,Factory/Industrial,9,Regular salt,Occasionally,3 times a week,70.91699999999999
+62,Filtred_water,3 times a week,5,5 times a week,93,Rural,Outdoors,19,Regular salt,Occasionally,3 times a week,64.259
+75,Tap_water,Never,0,Never,98,Urban,Factory/Industrial,13,Regular salt,No,Every day,37.736000000000004
+50,Bottled_water,Never,3,3 times a week,79,Urban,Outdoors,0,Sea salt,Occasionally,Once a week,47.6915
+67,Bottled_water,Every day,5,Never,62,Rural,Factory/Industrial,13,Sea salt,Occasionally,3 times a week,91.143
+58,Bottled_water,5 times a week,8,3 times a week,7,Industrial,Factory/Industrial,2,Sea salt,Yes,Once a week,68.655
+64,Filtred_water,Every day,5,Once a week,85,Industrial,Home,7,Sea salt,Occasionally,Once a week,67.3725
+32,Bottled_water,Once a week,7,Never,33,Industrial,Office,11,Regular salt,Occasionally,3 times a week,51.447500000000005
+55,Tap_water,Every day,13,3 times a week,8,Rural,Outdoors,11,Sea salt,No,5 times a week,68.692
+58,Bottled_water,Never,14,Never,65,Rural,Outdoors,7,Sea salt,Yes,3 times a week,51.542
+46,Filtred_water,5 times a week,3,Once a week,25,Rural,Factory/Industrial,16,Sea salt,Occasionally,Every day,60.058499999999995
+43,Filtred_water,3 times a week,6,Once a week,4,Urban,Outdoors,12,Regular salt,Occasionally,Never,36.441500000000005
+62,Filtred_water,Once a week,12,Every day,68,Rural,Office,19,Sea salt,Occasionally,Never,65.46499999999999
+44,Bottled_water,Once a week,12,3 times a week,94,Urban,Factory/Industrial,23,Regular salt,Occasionally,3 times a week,80.296
+24,Tap_water,5 times a week,3,Once a week,50,Rural,Factory/Industrial,23,Sea salt,No,Never,52.993
+25,Filtred_water,3 times a week,5,3 times a week,78,Rural,Factory/Industrial,5,Sea salt,Yes,5 times a week,55.11600000000001
+66,Bottled_water,Never,5,Once a week,71,Urban,Office,19,Regular salt,No,Every day,62.602000000000004
+57,Tap_water,Never,7,3 times a week,5,Urban,Outdoors,11,Sea salt,Yes,Every day,35.79600000000001
+78,Filtred_water,Never,8,Never,36,Urban,Home,15,Regular salt,Yes,5 times a week,36.247
+50,Filtred_water,3 times a week,1,Every day,47,Industrial,Factory/Industrial,0,Regular salt,Yes,Never,60.19400000000001
+52,Tap_water,Never,0,3 times a week,66,Rural,Office,20,Regular salt,Yes,Never,36.42850000000001
+69,Bottled_water,Every day,10,Never,64,Urban,Office,13,Regular salt,No,Every day,92.895
+60,Filtred_water,3 times a week,0,Once a week,40,Industrial,Home,18,Regular salt,Yes,3 times a week,48.133
+32,Filtred_water,3 times a week,11,Every day,80,Urban,Office,13,Sea salt,Occasionally,Never,69.61399999999999
+75,Tap_water,5 times a week,0,Once a week,26,Urban,Factory/Industrial,22,Sea salt,No,Every day,57.9585
+66,Bottled_water,5 times a week,12,Every day,0,Urban,Factory/Industrial,6,Sea salt,No,Every day,94.1585
+18,Filtred_water,Once a week,1,5 times a week,99,Rural,Outdoors,6,Sea salt,No,Once a week,42.6035
+70,Bottled_water,5 times a week,10,Once a week,29,Urban,Home,9,Regular salt,Occasionally,Once a week,63.831
+61,Filtred_water,5 times a week,10,3 times a week,92,Urban,Office,16,Regular salt,No,Never,60.77049999999999
+63,Tap_water,Once a week,6,5 times a week,52,Rural,Outdoors,9,Sea salt,No,5 times a week,41.62700000000001
+71,Filtred_water,Never,5,Every day,98,Urban,Factory/Industrial,21,Regular salt,Occasionally,5 times a week,75.487
+54,Tap_water,3 times a week,4,3 times a week,51,Rural,Home,15,Regular salt,No,3 times a week,43.871
+61,Filtred_water,Every day,14,Every day,69,Rural,Office,15,Sea salt,Occasionally,3 times a week,99.735
+21,Filtred_water,Every day,9,Never,69,Rural,Office,17,Sea salt,Yes,5 times a week,77.76899999999999
+31,Filtred_water,3 times a week,10,Once a week,84,Urban,Outdoors,10,Regular salt,Occasionally,Never,44.6845
+62,Tap_water,Every day,12,Never,61,Urban,Office,23,Sea salt,Occasionally,Every day,78.68299999999999
+74,Filtred_water,Every day,2,5 times a week,38,Urban,Home,6,Sea salt,Yes,5 times a week,76.7845
+21,Bottled_water,Once a week,0,3 times a week,22,Industrial,Home,0,Regular salt,Occasionally,Every day,51.751000000000005
+70,Bottled_water,Every day,9,Every day,59,Urban,Outdoors,2,Sea salt,Occasionally,Never,102.68049999999998
+61,Tap_water,Once a week,13,Never,2,Rural,Home,18,Regular salt,No,Never,25.526500000000002
+25,Filtred_water,Never,1,3 times a week,44,Rural,Factory/Industrial,14,Regular salt,No,Once a week,38.1785
+53,Bottled_water,Every day,2,Every day,93,Rural,Factory/Industrial,11,Regular salt,Yes,3 times a week,119.55499999999999
+39,Bottled_water,Every day,9,Never,10,Industrial,Factory/Industrial,5,Sea salt,Yes,3 times a week,84.5265
+67,Filtred_water,Never,4,Every day,23,Industrial,Factory/Industrial,5,Regular salt,No,Every day,57.51850000000002
+43,Tap_water,Never,8,Every day,26,Urban,Office,5,Sea salt,Yes,Every day,51.215
+57,Bottled_water,5 times a week,13,Every day,37,Industrial,Office,16,Regular salt,No,Once a week,94.849
+21,Tap_water,Every day,14,Never,49,Rural,Office,8,Regular salt,Occasionally,Never,57.3335
+22,Tap_water,3 times a week,12,3 times a week,38,Rural,Office,5,Regular salt,Yes,5 times a week,43.54700000000001
+50,Filtred_water,3 times a week,6,Every day,54,Urban,Home,19,Sea salt,No,3 times a week,71.973
+32,Tap_water,Once a week,5,Every day,72,Industrial,Outdoors,23,Regular salt,Yes,Once a week,66.63250000000001
+63,Bottled_water,Every day,5,5 times a week,32,Industrial,Home,19,Regular salt,Occasionally,Every day,107.1345
+66,Tap_water,5 times a week,6,5 times a week,75,Urban,Outdoors,5,Sea salt,Occasionally,Once a week,52.2
+29,Bottled_water,Every day,3,5 times a week,26,Urban,Outdoors,7,Sea salt,Occasionally,Once a week,89.14499999999997
+25,Tap_water,Never,2,3 times a week,60,Rural,Outdoors,18,Regular salt,Occasionally,3 times a week,37.648500000000006
+44,Filtred_water,Once a week,0,Never,58,Urban,Outdoors,10,Sea salt,No,5 times a week,33.6175
+42,Bottled_water,Once a week,5,Every day,75,Industrial,Office,21,Regular salt,Yes,3 times a week,90.57750000000001
+58,Bottled_water,Every day,2,Never,56,Urban,Home,14,Sea salt,Occasionally,5 times a week,88.16349999999997
+22,Bottled_water,Never,0,3 times a week,68,Industrial,Factory/Industrial,12,Regular salt,Yes,3 times a week,64.036
+65,Filtred_water,5 times a week,14,3 times a week,23,Urban,Office,7,Regular salt,No,3 times a week,51.896
+29,Filtred_water,5 times a week,7,Never,71,Urban,Office,12,Sea salt,No,5 times a week,52.880500000000005
+19,Bottled_water,3 times a week,2,Never,1,Rural,Office,19,Sea salt,No,Every day,61.977999999999994
+38,Filtred_water,Every day,6,3 times a week,10,Rural,Outdoors,21,Sea salt,Occasionally,5 times a week,80.31199999999998
+38,Bottled_water,Once a week,12,Once a week,97,Industrial,Outdoors,8,Regular salt,Yes,Once a week,60.28300000000001
+53,Filtred_water,Every day,10,Once a week,91,Industrial,Outdoors,10,Sea salt,Yes,Once a week,75.036
+36,Bottled_water,Once a week,7,5 times a week,18,Industrial,Office,11,Sea salt,Yes,Never,60.980500000000006
+72,Tap_water,3 times a week,9,3 times a week,81,Industrial,Home,0,Sea salt,Yes,Every day,46.88000000000001
+59,Tap_water,5 times a week,3,Every day,99,Rural,Factory/Industrial,19,Regular salt,No,5 times a week,84.65099999999998
+36,Bottled_water,Every day,5,3 times a week,85,Industrial,Home,23,Sea salt,No,Never,100.69349999999999
+49,Bottled_water,Never,12,Every day,34,Urban,Office,7,Regular salt,Occasionally,Never,67.863
+18,Bottled_water,5 times a week,8,3 times a week,36,Rural,Outdoors,6,Sea salt,Yes,5 times a week,74.07149999999999
+20,Filtred_water,Never,4,Every day,20,Rural,Home,4,Regular salt,Yes,Every day,52.6075
+51,Tap_water,Every day,1,3 times a week,92,Industrial,Factory/Industrial,1,Regular salt,No,Never,64.80049999999999
+62,Bottled_water,Never,5,Once a week,15,Urban,Home,16,Sea salt,No,5 times a week,51.62950000000001
+28,Filtred_water,3 times a week,12,Never,13,Urban,Office,16,Regular salt,Occasionally,Every day,48.033500000000004
+64,Bottled_water,Never,0,Once a week,58,Rural,Outdoors,13,Regular salt,Yes,3 times a week,52.90500000000001
+36,Tap_water,5 times a week,6,Once a week,53,Rural,Home,5,Sea salt,Occasionally,Never,36.58500000000001
+74,Filtred_water,Every day,6,Never,18,Industrial,Factory/Industrial,6,Regular salt,Yes,3 times a week,66.821
+44,Tap_water,5 times a week,13,Once a week,53,Industrial,Home,23,Regular salt,Occasionally,3 times a week,58.304500000000004
+50,Bottled_water,5 times a week,12,Never,13,Urban,Factory/Industrial,8,Regular salt,Occasionally,Every day,72.12650000000001
+79,Bottled_water,Once a week,7,Never,14,Urban,Home,11,Regular salt,Yes,3 times a week,49.87300000000001
+27,Tap_water,Once a week,0,Every day,47,Industrial,Factory/Industrial,9,Regular salt,Occasionally,5 times a week,58.663500000000006
+41,Tap_water,Never,0,3 times a week,47,Industrial,Office,19,Regular salt,Occasionally,Never,33.5035
+34,Filtred_water,3 times a week,7,Once a week,93,Industrial,Outdoors,15,Regular salt,No,Never,48.324500000000015
+29,Tap_water,Never,6,3 times a week,31,Rural,Factory/Industrial,8,Regular salt,Yes,Once a week,31.767499999999995
+52,Bottled_water,Never,14,Once a week,52,Industrial,Factory/Industrial,19,Regular salt,Occasionally,5 times a week,68.3045
+44,Bottled_water,5 times a week,2,5 times a week,63,Urban,Outdoors,23,Regular salt,No,Once a week,85.58599999999998
+49,Bottled_water,Never,1,Every day,7,Rural,Home,0,Sea salt,Occasionally,Never,54.74850000000001
+68,Tap_water,3 times a week,6,5 times a week,5,Urban,Office,11,Regular salt,Occasionally,Never,40.249
+47,Tap_water,5 times a week,14,3 times a week,69,Industrial,Outdoors,13,Sea salt,No,3 times a week,57.87950000000001
+31,Filtred_water,5 times a week,12,5 times a week,97,Urban,Factory/Industrial,8,Regular salt,Yes,Once a week,69.99950000000001
+42,Bottled_water,5 times a week,9,Every day,4,Rural,Office,12,Sea salt,Yes,Every day,95.6725
+33,Bottled_water,5 times a week,10,Never,69,Industrial,Office,22,Regular salt,No,3 times a week,78.18
+27,Tap_water,3 times a week,9,Once a week,94,Rural,Outdoors,2,Sea salt,Occasionally,Every day,42.19250000000001
+44,Bottled_water,Never,7,Every day,48,Industrial,Office,13,Sea salt,Occasionally,Every day,81.9045
+54,Filtred_water,5 times a week,3,Once a week,67,Industrial,Factory/Industrial,18,Sea salt,Yes,5 times a week,66.93100000000001
+31,Tap_water,5 times a week,13,3 times a week,31,Rural,Office,16,Regular salt,Occasionally,Once a week,52.077499999999986
+41,Bottled_water,3 times a week,3,5 times a week,83,Urban,Office,21,Sea salt,Yes,3 times a week,83.91499999999999
+58,Bottled_water,Never,8,Every day,5,Rural,Home,22,Regular salt,Occasionally,Every day,82.6755
+59,Bottled_water,5 times a week,2,Every day,16,Industrial,Outdoors,5,Regular salt,Occasionally,3 times a week,84.55049999999999
+73,Tap_water,Once a week,12,3 times a week,14,Rural,Outdoors,15,Regular salt,Occasionally,Never,34.101000000000006
+25,Filtred_water,5 times a week,1,Once a week,31,Urban,Home,16,Regular salt,Occasionally,Every day,55.4165
+31,Bottled_water,Once a week,13,Never,53,Industrial,Office,9,Regular salt,Yes,Never,52.2595
+32,Filtred_water,Every day,14,Once a week,4,Industrial,Home,4,Regular salt,Yes,Once a week,61.738
+30,Filtred_water,Every day,9,5 times a week,27,Industrial,Home,0,Sea salt,Occasionally,3 times a week,70.32699999999998
+45,Bottled_water,3 times a week,11,Every day,22,Rural,Home,16,Regular salt,Occasionally,5 times a week,89.36049999999999
+51,Tap_water,Every day,4,Once a week,9,Industrial,Home,18,Regular salt,Yes,3 times a week,66.64500000000001
+33,Tap_water,Every day,11,Never,90,Urban,Home,20,Regular salt,No,Once a week,70.0755
+31,Filtred_water,Never,1,Every day,93,Rural,Factory/Industrial,14,Sea salt,Yes,Every day,71.89450000000001
+48,Filtred_water,Never,4,3 times a week,47,Urban,Factory/Industrial,6,Sea salt,No,Once a week,34.04650000000001
+28,Tap_water,Once a week,5,Every day,31,Rural,Outdoors,5,Regular salt,Yes,3 times a week,49.42500000000001
+40,Tap_water,5 times a week,12,Never,63,Industrial,Office,11,Sea salt,Occasionally,Once a week,45.0635
+55,Filtred_water,Never,3,3 times a week,4,Industrial,Office,1,Sea salt,Occasionally,Never,21.5385
+70,Tap_water,5 times a week,12,Never,55,Industrial,Factory/Industrial,8,Sea salt,No,Once a week,45.582
+64,Filtred_water,Every day,5,Once a week,79,Urban,Home,2,Regular salt,No,5 times a week,65.7425
+75,Bottled_water,5 times a week,1,Once a week,19,Industrial,Office,0,Regular salt,No,Every day,60.43300000000001
+51,Bottled_water,5 times a week,13,3 times a week,74,Urban,Office,17,Regular salt,No,Never,78.957
+48,Tap_water,Every day,10,3 times a week,44,Urban,Office,21,Regular salt,Yes,5 times a week,81.77099999999999
+22,Tap_water,Once a week,9,Never,32,Industrial,Factory/Industrial,4,Regular salt,Occasionally,Every day,33.04299999999999
+24,Bottled_water,5 times a week,14,Never,6,Rural,Outdoors,20,Regular salt,Yes,5 times a week,76.0545
+28,Bottled_water,Once a week,1,5 times a week,61,Rural,Office,5,Sea salt,No,Never,54.107000000000006
+58,Tap_water,5 times a week,6,Once a week,29,Urban,Home,13,Sea salt,Occasionally,Never,40.805
+53,Tap_water,5 times a week,12,Once a week,34,Rural,Factory/Industrial,18,Sea salt,Yes,3 times a week,57.4365
+55,Tap_water,Every day,5,Once a week,63,Industrial,Outdoors,0,Regular salt,No,3 times a week,57.00300000000001
+71,Bottled_water,Once a week,9,Every day,55,Rural,Outdoors,11,Regular salt,Yes,5 times a week,83.87199999999999
+61,Bottled_water,Never,6,Every day,8,Industrial,Factory/Industrial,3,Sea salt,Yes,3 times a week,71.2935
+74,Filtred_water,5 times a week,1,Never,36,Rural,Office,15,Sea salt,Yes,5 times a week,51.69200000000001
+43,Bottled_water,Once a week,1,Never,50,Urban,Outdoors,3,Regular salt,Occasionally,3 times a week,44.571000000000005
+42,Tap_water,Never,11,Once a week,95,Urban,Home,6,Sea salt,Yes,Every day,36.4845
+24,Bottled_water,3 times a week,8,3 times a week,83,Urban,Home,0,Sea salt,Yes,5 times a week,66.5695
+65,Filtred_water,3 times a week,4,Never,76,Urban,Office,1,Sea salt,No,Never,30.357
+42,Filtred_water,Once a week,10,5 times a week,98,Rural,Factory/Industrial,15,Regular salt,Yes,Never,58.34900000000001
+28,Bottled_water,Every day,14,3 times a week,58,Urban,Home,23,Sea salt,No,Once a week,101.35099999999997
+20,Tap_water,Never,12,Once a week,77,Urban,Home,5,Sea salt,Occasionally,Never,23.648999999999997
+45,Bottled_water,Every day,5,5 times a week,98,Rural,Home,6,Regular salt,Yes,Never,95.4805
+60,Filtred_water,Every day,8,Every day,44,Urban,Home,13,Sea salt,Yes,Every day,100.45399999999998
+18,Bottled_water,5 times a week,8,Every day,28,Urban,Factory/Industrial,13,Regular salt,No,Never,92.23199999999999
+29,Filtred_water,Every day,10,5 times a week,32,Industrial,Factory/Industrial,3,Sea salt,Occasionally,Never,74.87649999999998
+49,Bottled_water,5 times a week,9,3 times a week,37,Rural,Office,5,Sea salt,No,3 times a week,67.627
+48,Tap_water,3 times a week,0,Every day,21,Urban,Outdoors,8,Regular salt,Occasionally,Never,51.159499999999994
+79,Bottled_water,Every day,14,5 times a week,99,Rural,Outdoors,10,Sea salt,No,3 times a week,103.8575
+40,Filtred_water,Never,3,Never,74,Rural,Home,1,Regular salt,Occasionally,Never,18.999
+19,Filtred_water,3 times a week,6,5 times a week,18,Rural,Office,19,Sea salt,Occasionally,Once a week,53.60899999999999
+71,Tap_water,Once a week,4,Never,2,Industrial,Factory/Industrial,17,Regular salt,Yes,3 times a week,34.900499999999994
+63,Tap_water,Every day,6,Every day,24,Rural,Home,0,Regular salt,No,Every day,78.96549999999999
+77,Tap_water,Every day,11,Once a week,77,Industrial,Outdoors,2,Regular salt,Yes,Never,61.352000000000004
+77,Filtred_water,3 times a week,5,Once a week,49,Rural,Home,9,Regular salt,Occasionally,Never,36.779
+63,Tap_water,3 times a week,14,5 times a week,54,Rural,Office,6,Sea salt,Occasionally,5 times a week,50.0925
+75,Filtred_water,Every day,11,Never,80,Urban,Office,23,Regular salt,Occasionally,3 times a week,80.49099999999999
+50,Tap_water,Never,2,3 times a week,53,Urban,Factory/Industrial,14,Regular salt,Occasionally,3 times a week,38.453500000000005
+58,Bottled_water,5 times a week,12,Every day,16,Industrial,Home,23,Sea salt,Occasionally,Once a week,98.4085
+52,Filtred_water,Once a week,0,5 times a week,31,Rural,Factory/Industrial,12,Sea salt,Yes,Every day,54.18950000000001
+19,Tap_water,Once a week,13,Once a week,29,Urban,Factory/Industrial,0,Sea salt,No,3 times a week,26.587500000000002
+73,Bottled_water,5 times a week,10,3 times a week,45,Rural,Factory/Industrial,20,Regular salt,Yes,Once a week,85.47749999999999
+33,Tap_water,Every day,6,Every day,76,Industrial,Office,13,Regular salt,Occasionally,5 times a week,94.94449999999999
+28,Filtred_water,5 times a week,11,3 times a week,21,Rural,Outdoors,3,Regular salt,Occasionally,Once a week,46.27499999999999
+60,Tap_water,Once a week,11,5 times a week,41,Rural,Outdoors,20,Regular salt,Yes,5 times a week,53.642500000000005
+63,Bottled_water,Never,8,Once a week,84,Rural,Outdoors,14,Regular salt,Occasionally,Never,53.718500000000006
+31,Bottled_water,Once a week,6,Once a week,19,Rural,Outdoors,17,Sea salt,No,Never,51.086999999999996
+75,Bottled_water,3 times a week,13,Once a week,39,Industrial,Office,20,Regular salt,No,Every day,74.931
+51,Bottled_water,Once a week,8,Never,41,Industrial,Home,21,Sea salt,Yes,Never,58.03650000000001
+75,Filtred_water,Every day,4,Once a week,22,Industrial,Outdoors,20,Regular salt,Yes,3 times a week,75.825
+19,Bottled_water,5 times a week,11,3 times a week,31,Industrial,Outdoors,17,Regular salt,Occasionally,5 times a week,82.88049999999998
+65,Bottled_water,Once a week,2,Once a week,76,Rural,Factory/Industrial,21,Sea salt,Occasionally,5 times a week,69.975
+26,Bottled_water,3 times a week,6,Never,94,Rural,Home,9,Regular salt,Yes,5 times a week,65.488
+33,Filtred_water,Once a week,1,Never,53,Industrial,Factory/Industrial,7,Sea salt,No,Every day,38.7315
+58,Bottled_water,Once a week,0,Once a week,14,Urban,Home,10,Regular salt,Yes,3 times a week,49.15850000000001
+22,Filtred_water,Once a week,8,3 times a week,7,Rural,Outdoors,23,Sea salt,Yes,Every day,53.822
+68,Filtred_water,3 times a week,5,5 times a week,37,Industrial,Factory/Industrial,6,Sea salt,Occasionally,3 times a week,54.14000000000001
+60,Filtred_water,Never,0,3 times a week,11,Industrial,Home,18,Regular salt,Occasionally,Once a week,35.07599999999999
+54,Tap_water,Once a week,8,Every day,27,Urban,Office,18,Regular salt,Yes,Never,56.17550000000001
+32,Bottled_water,Every day,12,Every day,86,Industrial,Outdoors,23,Sea salt,No,Never,122.64049999999999
+66,Tap_water,3 times a week,3,3 times a week,32,Industrial,Office,0,Sea salt,Occasionally,5 times a week,35.644
+20,Filtred_water,3 times a week,1,3 times a week,99,Rural,Outdoors,8,Regular salt,Yes,Once a week,49.1245
+32,Filtred_water,Never,5,Never,77,Rural,Factory/Industrial,9,Regular salt,No,Never,30.185999999999996
+47,Filtred_water,Never,5,Every day,67,Industrial,Outdoors,5,Regular salt,Yes,Once a week,53.87550000000002
+42,Bottled_water,5 times a week,9,Once a week,45,Rural,Home,17,Regular salt,No,5 times a week,74.576
+61,Filtred_water,Once a week,1,Never,92,Industrial,Home,1,Sea salt,Occasionally,3 times a week,29.181499999999996
+42,Tap_water,Every day,10,3 times a week,99,Industrial,Factory/Industrial,2,Regular salt,No,5 times a week,75.81099999999999
+34,Filtred_water,Every day,8,Never,39,Urban,Factory/Industrial,14,Sea salt,Occasionally,3 times a week,72.99349999999998
+21,Filtred_water,Once a week,1,Every day,87,Urban,Office,5,Sea salt,Yes,3 times a week,58.85900000000001
+31,Filtred_water,Once a week,11,Every day,6,Rural,Home,6,Sea salt,No,3 times a week,50.972500000000004
+46,Bottled_water,5 times a week,9,Once a week,80,Industrial,Office,16,Sea salt,Occasionally,Once a week,75.572
+79,Tap_water,Once a week,1,5 times a week,81,Urban,Office,3,Sea salt,No,Once a week,33.086
+50,Filtred_water,Once a week,14,5 times a week,38,Rural,Factory/Industrial,17,Regular salt,Yes,Never,55.098
+57,Filtred_water,Never,12,5 times a week,21,Rural,Home,19,Regular salt,Yes,Every day,54.12100000000001
+44,Filtred_water,3 times a week,7,3 times a week,33,Urban,Outdoors,4,Sea salt,Yes,3 times a week,44.47050000000001
+62,Bottled_water,5 times a week,1,Every day,70,Industrial,Home,18,Regular salt,No,Never,93.83299999999998
+77,Tap_water,5 times a week,5,Once a week,77,Industrial,Outdoors,6,Sea salt,Yes,5 times a week,50.286000000000016
+63,Bottled_water,5 times a week,2,3 times a week,38,Industrial,Office,16,Regular salt,No,Every day,80.237
+59,Tap_water,Once a week,6,Every day,79,Rural,Home,22,Sea salt,Occasionally,3 times a week,64.90350000000001
+62,Filtred_water,5 times a week,8,Every day,37,Industrial,Factory/Industrial,11,Regular salt,No,3 times a week,78.2375
+42,Filtred_water,Once a week,2,Once a week,21,Urban,Factory/Industrial,12,Sea salt,Yes,Never,35.325500000000005
+28,Filtred_water,5 times a week,11,5 times a week,46,Urban,Office,23,Regular salt,Yes,Never,69.83599999999998
+27,Tap_water,3 times a week,3,Once a week,25,Industrial,Office,2,Sea salt,No,Once a week,25.162000000000003
+74,Tap_water,Never,11,Once a week,52,Urban,Home,2,Sea salt,Occasionally,Never,18.385499999999997
+49,Tap_water,Once a week,0,Never,73,Urban,Factory/Industrial,4,Sea salt,Occasionally,Never,24.2485
+62,Tap_water,Every day,8,5 times a week,31,Rural,Home,0,Sea salt,Yes,Every day,70.3535
+34,Tap_water,Every day,2,Once a week,10,Urban,Factory/Industrial,23,Sea salt,No,Once a week,68.501
+66,Bottled_water,5 times a week,5,5 times a week,29,Rural,Office,17,Regular salt,Occasionally,Never,77.076
+44,Bottled_water,Never,5,Once a week,21,Urban,Office,13,Sea salt,Occasionally,Once a week,46.422
+55,Filtred_water,5 times a week,13,Once a week,94,Industrial,Office,11,Regular salt,No,5 times a week,60.33650000000001
+52,Bottled_water,Once a week,10,Once a week,23,Urban,Office,0,Regular salt,No,3 times a week,43.514500000000005
+65,Bottled_water,3 times a week,11,Every day,64,Industrial,Factory/Industrial,23,Regular salt,Yes,Every day,110.1675
+55,Tap_water,Once a week,3,3 times a week,14,Urban,Factory/Industrial,2,Sea salt,Occasionally,Every day,34.2075
+66,Filtred_water,Never,1,Never,14,Rural,Office,12,Sea salt,Yes,Every day,31.400499999999997
+70,Bottled_water,Once a week,12,5 times a week,40,Rural,Outdoors,12,Regular salt,Yes,Never,64.93050000000001
+24,Bottled_water,Every day,14,Every day,50,Urban,Home,23,Regular salt,Occasionally,3 times a week,122.29799999999999
+48,Bottled_water,Never,3,3 times a week,64,Industrial,Office,6,Sea salt,Occasionally,Every day,58.547
+25,Tap_water,Every day,6,Once a week,8,Urban,Outdoors,18,Sea salt,No,Once a week,61.9015
+36,Tap_water,5 times a week,14,Once a week,2,Industrial,Home,22,Sea salt,No,Every day,56.507000000000005
+58,Tap_water,Every day,0,Never,93,Rural,Factory/Industrial,12,Sea salt,Occasionally,Once a week,65.8845
+71,Bottled_water,3 times a week,4,Once a week,76,Rural,Home,20,Regular salt,Yes,Never,67.6795
+33,Filtred_water,Every day,8,3 times a week,75,Urban,Office,8,Sea salt,No,Never,70.35449999999999
+33,Bottled_water,Never,2,Never,4,Urban,Factory/Industrial,20,Regular salt,Yes,Every day,60.37350000000001
+44,Tap_water,3 times a week,12,5 times a week,84,Rural,Factory/Industrial,10,Regular salt,Occasionally,Once a week,55.29149999999999
+68,Filtred_water,Once a week,7,Once a week,79,Rural,Outdoors,23,Sea salt,Occasionally,Never,45.18500000000001
+21,Filtred_water,5 times a week,1,5 times a week,3,Rural,Outdoors,9,Regular salt,Yes,3 times a week,54.883
+66,Filtred_water,3 times a week,5,Never,0,Urban,Factory/Industrial,17,Regular salt,Occasionally,3 times a week,44.653
+34,Tap_water,Never,0,Once a week,13,Urban,Outdoors,3,Sea salt,No,5 times a week,17.332
+49,Tap_water,5 times a week,11,Never,59,Industrial,Home,13,Sea salt,Yes,3 times a week,49.77250000000001
+23,Tap_water,3 times a week,6,Once a week,18,Rural,Home,8,Sea salt,Yes,Never,29.789499999999997
+56,Filtred_water,Never,10,Never,14,Industrial,Office,12,Sea salt,Occasionally,Every day,34.494
+49,Filtred_water,3 times a week,2,3 times a week,30,Rural,Outdoors,0,Regular salt,No,Every day,40.74850000000001
+53,Bottled_water,3 times a week,9,Never,39,Industrial,Outdoors,16,Regular salt,Yes,Every day,71.459
+25,Tap_water,3 times a week,6,Every day,43,Industrial,Home,11,Regular salt,Yes,3 times a week,63.46350000000001
+45,Tap_water,3 times a week,4,Every day,79,Industrial,Outdoors,16,Regular salt,Yes,Every day,76.399
+67,Tap_water,Once a week,4,Every day,62,Industrial,Office,5,Sea salt,No,5 times a week,52.785500000000006
+34,Tap_water,3 times a week,9,Never,33,Industrial,Outdoors,13,Sea salt,Occasionally,Every day,43.322500000000005
+43,Bottled_water,5 times a week,12,Never,83,Urban,Home,18,Sea salt,Occasionally,Never,73.2375
+74,Bottled_water,Every day,4,Every day,63,Rural,Home,13,Regular salt,No,Once a week,108.16999999999999
+24,Bottled_water,Every day,13,5 times a week,9,Industrial,Office,16,Sea salt,No,5 times a week,102.141
+26,Filtred_water,Never,8,Every day,61,Urban,Factory/Industrial,1,Sea salt,No,Once a week,51.32600000000001
+62,Tap_water,5 times a week,9,Once a week,58,Urban,Outdoors,16,Sea salt,No,Once a week,48.460499999999996
+35,Bottled_water,Once a week,3,Every day,24,Urban,Outdoors,13,Regular salt,Yes,Never,74.34100000000001
+76,Bottled_water,Every day,2,Once a week,94,Rural,Office,6,Regular salt,Yes,Once a week,85.1855
+37,Filtred_water,Once a week,11,3 times a week,69,Urban,Home,12,Regular salt,Yes,5 times a week,49.911500000000004
+30,Filtred_water,Once a week,0,Once a week,48,Rural,Office,14,Regular salt,Yes,5 times a week,39.8375
+69,Tap_water,Never,2,Every day,62,Rural,Outdoors,17,Sea salt,Yes,5 times a week,59.623
+38,Tap_water,Every day,0,Once a week,64,Industrial,Home,0,Regular salt,No,3 times a week,54.19200000000001
+59,Bottled_water,5 times a week,7,Never,28,Rural,Office,19,Sea salt,No,3 times a week,68.89399999999999
+18,Tap_water,Once a week,8,Never,35,Rural,Office,0,Sea salt,Yes,Every day,25.3745
+41,Bottled_water,3 times a week,6,Once a week,87,Industrial,Home,19,Regular salt,No,Once a week,68.75550000000001
+58,Bottled_water,Never,14,5 times a week,18,Rural,Office,23,Sea salt,Occasionally,Once a week,66.86699999999999
+43,Tap_water,Every day,0,Never,81,Rural,Home,9,Regular salt,Occasionally,Never,55.967
+32,Bottled_water,Every day,9,Once a week,85,Rural,Outdoors,7,Regular salt,Yes,Never,87.04599999999999
+19,Filtred_water,Once a week,8,Every day,76,Industrial,Office,21,Regular salt,Occasionally,Once a week,69.2525
+30,Tap_water,Never,9,Every day,87,Urban,Outdoors,10,Regular salt,No,3 times a week,54.5615
+38,Tap_water,Once a week,7,5 times a week,75,Urban,Home,1,Regular salt,Yes,Every day,43.144000000000005
+47,Filtred_water,3 times a week,5,Every day,21,Urban,Office,7,Regular salt,Occasionally,Once a week,57.93099999999999
+31,Tap_water,3 times a week,6,Never,99,Rural,Home,23,Regular salt,Yes,3 times a week,50.843
+79,Tap_water,5 times a week,11,Every day,58,Industrial,Outdoors,12,Sea salt,Yes,Never,72.253
+19,Filtred_water,Never,12,3 times a week,28,Rural,Home,0,Sea salt,Occasionally,3 times a week,28.280499999999996
+19,Bottled_water,3 times a week,4,3 times a week,88,Rural,Office,7,Sea salt,No,Every day,70.356
+22,Bottled_water,Every day,13,Never,51,Urban,Home,11,Sea salt,Yes,Once a week,86.181
+22,Bottled_water,Once a week,10,Never,78,Rural,Factory/Industrial,11,Sea salt,Yes,3 times a week,62.159000000000006
+49,Tap_water,3 times a week,9,3 times a week,10,Urban,Office,4,Sea salt,No,3 times a week,33.9565
+69,Tap_water,3 times a week,6,Never,90,Industrial,Outdoors,23,Sea salt,No,Every day,54.7285
+24,Filtred_water,Every day,11,3 times a week,81,Industrial,Factory/Industrial,18,Regular salt,Occasionally,5 times a week,92.86199999999998
+56,Filtred_water,5 times a week,12,Never,99,Industrial,Factory/Industrial,21,Sea salt,Occasionally,Never,65.1695
+36,Bottled_water,Once a week,6,Never,19,Urban,Office,14,Sea salt,Occasionally,Every day,55.8725
+38,Filtred_water,Never,8,Never,37,Urban,Outdoors,13,Regular salt,Occasionally,Never,27.848
+68,Filtred_water,Once a week,6,Never,38,Industrial,Factory/Industrial,14,Regular salt,No,Once a week,36.857
+20,Tap_water,3 times a week,9,Every day,55,Urban,Factory/Industrial,4,Regular salt,Yes,Never,60.74550000000001
+69,Filtred_water,Every day,12,Never,38,Urban,Home,8,Regular salt,Yes,5 times a week,68.9455
+47,Tap_water,3 times a week,3,5 times a week,95,Industrial,Office,7,Sea salt,Yes,Once a week,49.594500000000004
+23,Tap_water,5 times a week,6,Never,88,Industrial,Outdoors,14,Regular salt,No,Never,46.15400000000001
+28,Bottled_water,5 times a week,4,3 times a week,39,Rural,Factory/Industrial,8,Regular salt,Occasionally,Every day,79.1345
+51,Filtred_water,5 times a week,12,3 times a week,85,Rural,Home,17,Regular salt,Occasionally,Every day,70.419
+58,Bottled_water,5 times a week,0,Once a week,37,Industrial,Office,12,Sea salt,Yes,5 times a week,71.575
+30,Bottled_water,Once a week,11,Once a week,52,Industrial,Office,13,Sea salt,Occasionally,5 times a week,61.520500000000006
+52,Tap_water,5 times a week,0,Never,18,Industrial,Outdoors,7,Sea salt,Occasionally,Never,32.4315
+65,Filtred_water,5 times a week,4,Never,24,Rural,Office,22,Sea salt,Yes,5 times a week,56.90150000000001
+47,Bottled_water,3 times a week,3,Once a week,13,Rural,Office,9,Regular salt,Yes,Every day,61.43299999999999
+36,Filtred_water,Once a week,9,3 times a week,27,Rural,Outdoors,4,Regular salt,Occasionally,3 times a week,34.8735
+36,Bottled_water,Every day,3,5 times a week,88,Industrial,Office,12,Regular salt,Occasionally,5 times a week,104.73399999999998
+69,Filtred_water,Once a week,3,5 times a week,27,Industrial,Office,17,Sea salt,No,Never,43.9395
+36,Tap_water,3 times a week,14,3 times a week,24,Industrial,Outdoors,12,Regular salt,Occasionally,Once a week,43.739999999999995
+66,Tap_water,5 times a week,14,5 times a week,55,Industrial,Home,1,Regular salt,No,5 times a week,53.81450000000001
+36,Filtred_water,3 times a week,5,3 times a week,69,Urban,Home,17,Sea salt,Occasionally,3 times a week,54.531
+76,Bottled_water,Once a week,12,5 times a week,6,Rural,Factory/Industrial,15,Sea salt,No,3 times a week,68.545
+76,Filtred_water,Never,4,5 times a week,31,Industrial,Factory/Industrial,3,Sea salt,No,Never,35.093500000000006
+27,Tap_water,Never,2,Once a week,83,Industrial,Outdoors,9,Regular salt,Yes,3 times a week,31.4095
+78,Bottled_water,3 times a week,8,Once a week,90,Industrial,Office,21,Regular salt,Yes,5 times a week,79.60549999999999
+75,Filtred_water,Once a week,11,3 times a week,47,Urban,Outdoors,10,Regular salt,No,Once a week,39.2735
+70,Bottled_water,5 times a week,8,Once a week,87,Urban,Factory/Industrial,1,Regular salt,Occasionally,5 times a week,73.10499999999999
+72,Filtred_water,Never,4,5 times a week,55,Industrial,Home,10,Regular salt,Yes,Every day,49.489000000000004
+40,Filtred_water,Never,7,Once a week,63,Industrial,Factory/Industrial,11,Regular salt,No,5 times a week,41.4735
+37,Bottled_water,3 times a week,4,Every day,90,Rural,Office,10,Sea salt,Yes,Once a week,86.49550000000002
+60,Filtred_water,Never,12,5 times a week,92,Urban,Outdoors,7,Regular salt,Occasionally,Never,43.425
+25,Bottled_water,3 times a week,1,Never,10,Rural,Factory/Industrial,9,Regular salt,Occasionally,5 times a week,58.217
+22,Tap_water,5 times a week,1,Never,80,Urban,Home,8,Sea salt,No,Once a week,38.0095
+56,Bottled_water,Every day,0,Every day,56,Rural,Outdoors,16,Sea salt,Occasionally,5 times a week,115.47949999999999
+21,Filtred_water,Every day,8,5 times a week,88,Urban,Factory/Industrial,6,Regular salt,Occasionally,5 times a week,87.44149999999998
+75,Bottled_water,Every day,10,Never,55,Urban,Outdoors,10,Sea salt,Occasionally,Every day,91.49649999999998
+45,Bottled_water,Every day,5,Never,54,Industrial,Home,11,Sea salt,Yes,5 times a week,89.63149999999999
+60,Tap_water,5 times a week,9,3 times a week,4,Industrial,Outdoors,1,Regular salt,Occasionally,Every day,46.176500000000004
+55,Tap_water,Once a week,5,3 times a week,82,Industrial,Home,20,Regular salt,Yes,3 times a week,48.574
+61,Filtred_water,Once a week,5,3 times a week,86,Urban,Office,12,Sea salt,No,3 times a week,44.45650000000001
+28,Filtred_water,Once a week,5,Once a week,69,Urban,Office,16,Regular salt,Yes,5 times a week,45.95850000000001
+48,Filtred_water,Every day,14,5 times a week,17,Rural,Outdoors,4,Regular salt,Yes,Once a week,72.9425
+30,Bottled_water,Never,3,Never,80,Urban,Home,13,Sea salt,Occasionally,Every day,56.35300000000001
+54,Tap_water,Every day,8,Once a week,27,Urban,Home,19,Regular salt,Occasionally,3 times a week,67.85600000000001
+78,Bottled_water,Every day,8,5 times a week,19,Rural,Home,1,Regular salt,Occasionally,5 times a week,88.93899999999998
+49,Tap_water,Never,12,Every day,89,Industrial,Factory/Industrial,20,Sea salt,Occasionally,3 times a week,69.70700000000001
+66,Filtred_water,Every day,1,5 times a week,86,Rural,Home,22,Sea salt,No,Never,83.93249999999999
+28,Tap_water,Once a week,8,3 times a week,0,Rural,Home,17,Sea salt,Occasionally,Never,31.639
+67,Filtred_water,Every day,0,Every day,95,Industrial,Office,20,Regular salt,No,5 times a week,104.20699999999998
+30,Tap_water,Never,9,Never,89,Industrial,Factory/Industrial,9,Regular salt,Yes,Once a week,33.500499999999995
+41,Filtred_water,Every day,1,3 times a week,38,Industrial,Factory/Industrial,13,Sea salt,Yes,3 times a week,80.2585
+44,Filtred_water,Never,12,Every day,16,Urban,Outdoors,6,Sea salt,Occasionally,3 times a week,51.5105
+76,Filtred_water,Never,12,3 times a week,75,Rural,Home,9,Sea salt,Occasionally,Once a week,37.571
+61,Tap_water,5 times a week,11,Every day,60,Industrial,Factory/Industrial,22,Sea salt,Yes,5 times a week,90.381
+34,Tap_water,Never,5,5 times a week,40,Rural,Outdoors,9,Regular salt,No,5 times a week,36.363
+28,Bottled_water,Once a week,11,5 times a week,49,Urban,Factory/Industrial,2,Regular salt,Yes,Every day,71.1725
+64,Bottled_water,Once a week,2,Once a week,15,Urban,Office,23,Sea salt,No,Once a week,54.916000000000004
+53,Tap_water,5 times a week,12,Every day,19,Rural,Factory/Industrial,11,Regular salt,Occasionally,Never,68.33
+72,Filtred_water,Every day,11,Never,98,Industrial,Office,5,Regular salt,Yes,Every day,76.44149999999999
+29,Filtred_water,Once a week,1,Once a week,45,Urban,Factory/Industrial,5,Sea salt,Occasionally,3 times a week,34.011
+50,Bottled_water,Every day,6,Once a week,59,Rural,Outdoors,0,Regular salt,Occasionally,Never,76.05949999999999
+68,Filtred_water,5 times a week,9,Every day,90,Urban,Office,9,Sea salt,Yes,5 times a week,82.20499999999998
+35,Bottled_water,Never,12,3 times a week,45,Industrial,Home,16,Sea salt,Occasionally,5 times a week,64.65100000000001
+63,Bottled_water,Never,14,Once a week,70,Rural,Home,20,Sea salt,Occasionally,Once a week,59.210499999999996
+69,Filtred_water,Never,1,Once a week,71,Industrial,Home,22,Sea salt,Yes,Never,40.135000000000005
+22,Filtred_water,3 times a week,10,Once a week,34,Industrial,Home,4,Regular salt,No,Every day,42.49000000000001
+59,Tap_water,Never,8,5 times a week,89,Industrial,Factory/Industrial,3,Regular salt,No,Never,37.3695
+48,Bottled_water,Once a week,6,5 times a week,37,Urban,Office,14,Regular salt,Occasionally,Every day,70.7325
+54,Tap_water,Once a week,5,Every day,81,Urban,Outdoors,4,Sea salt,Yes,Every day,59.446500000000015
+76,Tap_water,5 times a week,9,Never,5,Urban,Factory/Industrial,5,Sea salt,Yes,5 times a week,43.84400000000001
+18,Filtred_water,3 times a week,3,Never,6,Rural,Factory/Industrial,6,Regular salt,No,Once a week,31.9425
+45,Tap_water,3 times a week,5,3 times a week,62,Rural,Home,1,Sea salt,Occasionally,Once a week,33.259
+31,Tap_water,3 times a week,9,5 times a week,65,Industrial,Office,6,Sea salt,No,5 times a week,49.964
+71,Bottled_water,5 times a week,2,Never,14,Industrial,Office,3,Regular salt,No,5 times a week,57.48050000000001
+65,Bottled_water,Once a week,1,3 times a week,60,Urban,Factory/Industrial,18,Sea salt,Yes,Every day,75.75250000000001
+26,Filtred_water,3 times a week,8,Never,78,Industrial,Office,11,Sea salt,Occasionally,3 times a week,45.5835
+59,Filtred_water,Once a week,6,Never,82,Rural,Home,13,Regular salt,No,Once a week,33.914
+50,Tap_water,Once a week,8,Once a week,70,Rural,Factory/Industrial,20,Regular salt,Occasionally,3 times a week,44.8605
+30,Filtred_water,Once a week,3,3 times a week,49,Urban,Office,16,Regular salt,No,3 times a week,42.93450000000001
+61,Filtred_water,5 times a week,10,3 times a week,72,Urban,Home,2,Sea salt,Yes,5 times a week,56.76650000000001
+57,Tap_water,5 times a week,10,Never,92,Industrial,Factory/Industrial,21,Sea salt,Yes,5 times a week,66.5785
+56,Bottled_water,Every day,4,Every day,33,Rural,Home,10,Sea salt,Occasionally,5 times a week,108.84949999999999
+71,Filtred_water,Never,5,Every day,3,Rural,Home,20,Regular salt,Yes,Never,54.731500000000004
+36,Tap_water,Never,9,3 times a week,94,Urban,Home,6,Regular salt,No,Once a week,30.432499999999997
+33,Tap_water,5 times a week,13,5 times a week,87,Industrial,Outdoors,12,Regular salt,Occasionally,Every day,69.896
+54,Bottled_water,Every day,14,5 times a week,51,Urban,Home,14,Regular salt,No,3 times a week,101.40849999999998
+23,Filtred_water,5 times a week,13,5 times a week,4,Rural,Office,11,Sea salt,Occasionally,Never,54.60099999999999
+73,Filtred_water,Every day,13,Every day,44,Urban,Home,10,Sea salt,No,Never,88.31849999999997
+30,Filtred_water,Once a week,14,Every day,86,Industrial,Home,1,Sea salt,No,5 times a week,60.690500000000014
+48,Bottled_water,3 times a week,3,Once a week,7,Rural,Outdoors,16,Regular salt,Occasionally,Never,56.3435
+45,Filtred_water,Once a week,3,Never,34,Urban,Home,10,Sea salt,Yes,3 times a week,31.542499999999997
+71,Filtred_water,Once a week,14,3 times a week,26,Industrial,Home,15,Regular salt,Yes,Never,43.6495
+24,Bottled_water,3 times a week,1,Every day,9,Industrial,Home,11,Regular salt,Yes,Every day,86.4995
+23,Tap_water,Once a week,6,Every day,37,Rural,Factory/Industrial,15,Regular salt,No,Never,55.429
+61,Filtred_water,Never,2,Every day,27,Urban,Office,1,Sea salt,Occasionally,5 times a week,46.948
+35,Bottled_water,Never,1,5 times a week,41,Rural,Home,14,Sea salt,Occasionally,5 times a week,62.25550000000001
+27,Filtred_water,Once a week,5,3 times a week,55,Urban,Outdoors,12,Regular salt,Occasionally,Never,39.301500000000004
+33,Bottled_water,Never,4,3 times a week,95,Rural,Factory/Industrial,6,Regular salt,Yes,Every day,67.0505
+79,Bottled_water,Every day,1,Every day,89,Urban,Home,5,Regular salt,Yes,Never,105.90599999999998
+60,Filtred_water,Once a week,12,Once a week,32,Urban,Factory/Industrial,20,Regular salt,Occasionally,3 times a week,48.1485
+68,Tap_water,Once a week,7,Never,17,Industrial,Office,1,Sea salt,Yes,3 times a week,20.555500000000002
+41,Bottled_water,3 times a week,9,5 times a week,64,Industrial,Office,21,Regular salt,Occasionally,3 times a week,83.3445
+29,Tap_water,Every day,5,5 times a week,10,Rural,Office,8,Sea salt,No,Every day,70.6545
+41,Bottled_water,3 times a week,2,Never,98,Urban,Home,23,Regular salt,Occasionally,Every day,76.434
+62,Tap_water,3 times a week,1,Once a week,81,Industrial,Outdoors,0,Sea salt,Occasionally,Never,29.302
+28,Tap_water,3 times a week,5,3 times a week,46,Industrial,Outdoors,5,Regular salt,Yes,3 times a week,41.7075
+74,Bottled_water,Once a week,8,3 times a week,51,Rural,Home,1,Sea salt,No,Once a week,48.232
+50,Bottled_water,Never,11,5 times a week,42,Industrial,Factory/Industrial,9,Sea salt,No,5 times a week,67.8245
+74,Filtred_water,Every day,3,5 times a week,12,Industrial,Office,20,Sea salt,Occasionally,Never,78.53399999999999
+23,Bottled_water,Never,7,Never,20,Industrial,Home,1,Sea salt,Yes,Once a week,37.76650000000001
+39,Bottled_water,Every day,11,5 times a week,34,Industrial,Factory/Industrial,3,Sea salt,Yes,Never,95.47349999999999
+72,Bottled_water,3 times a week,10,5 times a week,24,Urban,Home,1,Regular salt,Yes,Once a week,62.12400000000001
+51,Filtred_water,Every day,9,Never,83,Industrial,Home,4,Sea salt,Occasionally,5 times a week,68.71300000000001
+37,Filtred_water,Every day,5,3 times a week,21,Urban,Office,0,Sea salt,Yes,5 times a week,66.6745
+25,Filtred_water,Every day,4,Never,15,Rural,Office,15,Regular salt,Yes,Once a week,63.796
+40,Tap_water,Once a week,13,5 times a week,74,Industrial,Office,6,Regular salt,No,3 times a week,42.568000000000005
+76,Filtred_water,Every day,3,5 times a week,26,Urban,Factory/Industrial,0,Regular salt,Occasionally,Never,68.33449999999999
+78,Filtred_water,Once a week,11,Every day,80,Urban,Office,0,Regular salt,No,5 times a week,57.502500000000005
+60,Tap_water,Once a week,0,3 times a week,5,Industrial,Factory/Industrial,15,Sea salt,Yes,Never,36.291500000000006
+71,Bottled_water,Once a week,7,Never,14,Urban,Office,21,Sea salt,Yes,Once a week,55.419000000000004
+22,Filtred_water,3 times a week,4,Never,99,Urban,Home,16,Sea salt,Occasionally,5 times a week,51.2165
+36,Bottled_water,Once a week,11,Once a week,56,Rural,Office,1,Sea salt,Yes,5 times a week,52.921
+72,Bottled_water,Once a week,9,Every day,0,Rural,Home,15,Regular salt,Occasionally,Never,72.05799999999999
+74,Bottled_water,5 times a week,10,Every day,45,Urban,Factory/Industrial,19,Regular salt,No,Never,99.327
+74,Bottled_water,Never,11,3 times a week,78,Urban,Home,9,Regular salt,No,Once a week,55.196
+75,Bottled_water,Every day,3,5 times a week,70,Industrial,Outdoors,11,Sea salt,Occasionally,5 times a week,102.83749999999998
+69,Bottled_water,Every day,13,5 times a week,16,Urban,Home,0,Regular salt,No,Once a week,84.1775
+45,Filtred_water,Every day,6,3 times a week,71,Industrial,Office,17,Regular salt,No,5 times a week,83.39549999999998
+63,Filtred_water,Never,1,5 times a week,30,Rural,Factory/Industrial,15,Regular salt,No,Never,41.44100000000001
+67,Bottled_water,Never,12,Never,96,Urban,Home,19,Sea salt,Occasionally,3 times a week,60.900000000000006
+50,Tap_water,5 times a week,9,Once a week,12,Urban,Home,20,Sea salt,No,3 times a week,48.1435
+64,Tap_water,5 times a week,13,Every day,31,Rural,Factory/Industrial,9,Sea salt,Occasionally,Every day,77.157
+73,Filtred_water,5 times a week,14,3 times a week,33,Industrial,Outdoors,21,Regular salt,No,5 times a week,67.95150000000001
+43,Bottled_water,Once a week,11,Never,45,Industrial,Factory/Industrial,1,Regular salt,No,Never,46.392500000000005
+30,Bottled_water,5 times a week,1,5 times a week,40,Rural,Office,15,Regular salt,Occasionally,Never,75.231
+73,Tap_water,5 times a week,8,5 times a week,35,Rural,Factory/Industrial,21,Regular salt,Yes,Never,65.028
+19,Bottled_water,Never,4,Once a week,54,Urban,Office,3,Regular salt,Yes,Once a week,43.638
+18,Bottled_water,Once a week,11,Every day,54,Industrial,Outdoors,14,Regular salt,Yes,3 times a week,85.94199999999998
+73,Bottled_water,Once a week,14,Once a week,88,Urban,Factory/Industrial,15,Sea salt,Occasionally,3 times a week,69.08
+52,Tap_water,5 times a week,1,Once a week,25,Industrial,Outdoors,4,Sea salt,No,Once a week,33.977000000000004
+77,Bottled_water,Once a week,7,Never,91,Urban,Outdoors,9,Regular salt,Occasionally,5 times a week,58.114000000000004
+27,Filtred_water,Never,6,Every day,55,Rural,Factory/Industrial,13,Sea salt,Yes,Never,60.260000000000005
+52,Bottled_water,Never,5,Never,46,Industrial,Factory/Industrial,8,Sea salt,No,3 times a week,49.794000000000004
+61,Bottled_water,Once a week,6,5 times a week,16,Rural,Factory/Industrial,19,Sea salt,Yes,3 times a week,73.387
+57,Bottled_water,Every day,6,Every day,71,Industrial,Outdoors,18,Sea salt,Occasionally,Once a week,117.407
+38,Tap_water,Once a week,10,3 times a week,55,Urban,Home,15,Sea salt,No,5 times a week,42.283
+73,Bottled_water,Never,1,3 times a week,3,Urban,Outdoors,2,Sea salt,No,3 times a week,41.993500000000004
+61,Tap_water,3 times a week,12,Every day,40,Industrial,Office,3,Sea salt,No,Once a week,54.164500000000004
+39,Tap_water,5 times a week,6,Once a week,43,Industrial,Outdoors,21,Sea salt,Yes,3 times a week,56.115500000000004
+23,Filtred_water,5 times a week,2,5 times a week,71,Urban,Factory/Industrial,14,Regular salt,Yes,Every day,75.7425
+40,Bottled_water,3 times a week,3,Never,10,Industrial,Outdoors,20,Sea salt,Yes,3 times a week,64.345
+51,Bottled_water,5 times a week,14,Every day,40,Rural,Outdoors,11,Regular salt,Yes,Never,92.452
+28,Bottled_water,Once a week,12,3 times a week,94,Rural,Factory/Industrial,0,Regular salt,No,Once a week,58.4915
+65,Bottled_water,5 times a week,11,3 times a week,94,Rural,Office,3,Sea salt,Yes,3 times a week,75.67
+76,Filtred_water,Once a week,6,Once a week,87,Rural,Office,8,Sea salt,Occasionally,5 times a week,39.66550000000001
+22,Bottled_water,5 times a week,9,Never,41,Urban,Home,10,Regular salt,No,3 times a week,64.2825
+78,Filtred_water,Every day,3,Once a week,91,Urban,Outdoors,14,Regular salt,Yes,Every day,81.97149999999999
+73,Tap_water,Every day,14,Once a week,22,Industrial,Office,19,Regular salt,No,Every day,74.8405
+19,Tap_water,5 times a week,6,5 times a week,73,Rural,Outdoors,18,Sea salt,No,5 times a week,65.26950000000001
+64,Filtred_water,Never,14,5 times a week,87,Rural,Factory/Industrial,18,Regular salt,No,Once a week,55.6485
+52,Bottled_water,Every day,11,Once a week,8,Urban,Factory/Industrial,4,Sea salt,No,Never,79.15749999999997
+60,Filtred_water,Once a week,11,3 times a week,40,Urban,Factory/Industrial,8,Sea salt,No,3 times a week,43.5355
+40,Tap_water,Every day,12,3 times a week,27,Urban,Outdoors,23,Regular salt,Occasionally,Once a week,76.17699999999999
+25,Bottled_water,3 times a week,10,5 times a week,65,Urban,Office,8,Regular salt,Yes,Every day,79.6065
+51,Filtred_water,3 times a week,14,Never,2,Industrial,Outdoors,14,Regular salt,No,Every day,46.778000000000006
+75,Filtred_water,5 times a week,13,3 times a week,99,Industrial,Home,22,Sea salt,Yes,Never,70.815
+22,Filtred_water,5 times a week,13,Every day,94,Rural,Factory/Industrial,11,Sea salt,Yes,Once a week,84.779
+28,Bottled_water,5 times a week,12,5 times a week,43,Rural,Outdoors,0,Sea salt,Occasionally,3 times a week,72.5355
+59,Filtred_water,Once a week,7,3 times a week,94,Industrial,Office,16,Regular salt,Occasionally,3 times a week,51.224
+76,Tap_water,Never,12,Every day,97,Urban,Office,6,Regular salt,No,Every day,57.8895
+37,Tap_water,Once a week,13,3 times a week,38,Industrial,Home,1,Regular salt,No,5 times a week,31.9225
+77,Bottled_water,5 times a week,5,Once a week,48,Rural,Factory/Industrial,17,Regular salt,Yes,Every day,83.958
+47,Filtred_water,Once a week,11,Every day,76,Industrial,Factory/Industrial,12,Regular salt,No,Once a week,67.096
+79,Bottled_water,Once a week,3,3 times a week,38,Rural,Outdoors,19,Sea salt,No,Never,58.70399999999999
+45,Tap_water,Once a week,11,Once a week,60,Rural,Factory/Industrial,10,Regular salt,Occasionally,3 times a week,37.2475
+67,Bottled_water,Every day,4,5 times a week,71,Industrial,Factory/Industrial,14,Sea salt,No,Once a week,103.53299999999999
+57,Filtred_water,Once a week,7,Every day,84,Industrial,Office,5,Regular salt,No,5 times a week,61.35350000000001
+57,Tap_water,Never,0,Never,90,Industrial,Factory/Industrial,18,Sea salt,No,Never,33.071000000000005
+21,Filtred_water,5 times a week,3,Every day,18,Urban,Home,16,Sea salt,No,5 times a week,74.61349999999999
+33,Bottled_water,3 times a week,7,Every day,70,Rural,Home,22,Sea salt,No,3 times a week,93.9165
+67,Tap_water,5 times a week,3,Once a week,62,Rural,Home,8,Regular salt,Yes,5 times a week,46.78150000000001
+40,Filtred_water,Never,9,5 times a week,92,Industrial,Factory/Industrial,3,Regular salt,No,Never,43.24550000000001
+52,Bottled_water,3 times a week,8,3 times a week,70,Industrial,Outdoors,9,Sea salt,Yes,3 times a week,71.7735
+19,Bottled_water,Never,5,3 times a week,37,Urban,Home,10,Regular salt,No,Never,48.2665
+62,Filtred_water,Never,6,5 times a week,83,Urban,Factory/Industrial,8,Regular salt,No,3 times a week,47.7355
+44,Filtred_water,Never,13,Once a week,50,Urban,Factory/Industrial,15,Sea salt,No,Never,38.08500000000001
+24,Filtred_water,Once a week,3,Once a week,47,Urban,Factory/Industrial,23,Sea salt,No,3 times a week,47.64900000000001
+22,Bottled_water,Never,3,3 times a week,56,Industrial,Home,21,Regular salt,No,3 times a week,62.7485
+60,Filtred_water,5 times a week,7,Every day,24,Industrial,Office,18,Regular salt,Occasionally,Never,74.493
+31,Tap_water,Every day,10,3 times a week,4,Rural,Factory/Industrial,19,Regular salt,Yes,Every day,82.735
+55,Bottled_water,5 times a week,12,3 times a week,19,Urban,Office,6,Regular salt,Yes,Once a week,68.6095
+58,Bottled_water,3 times a week,2,Every day,98,Industrial,Factory/Industrial,18,Sea salt,Occasionally,5 times a week,102.28599999999999
+78,Filtred_water,Never,12,Never,80,Industrial,Outdoors,14,Sea salt,Occasionally,Once a week,36.861
+33,Tap_water,Never,13,Once a week,25,Industrial,Home,22,Sea salt,Occasionally,3 times a week,36.438
+38,Bottled_water,Once a week,10,Never,59,Urban,Office,23,Sea salt,No,Once a week,59.804
+43,Filtred_water,Every day,7,3 times a week,56,Rural,Outdoors,4,Regular salt,Yes,3 times a week,71.74649999999998
+65,Tap_water,5 times a week,6,Never,15,Urban,Outdoors,23,Sea salt,Occasionally,3 times a week,49.25300000000001
+72,Bottled_water,Every day,5,3 times a week,94,Rural,Outdoors,12,Regular salt,Occasionally,3 times a week,97.47749999999998
+43,Tap_water,3 times a week,2,Once a week,46,Industrial,Office,20,Regular salt,Occasionally,3 times a week,44.358
+54,Filtred_water,Once a week,2,3 times a week,82,Rural,Home,22,Regular salt,No,Once a week,47.15650000000001
+69,Bottled_water,5 times a week,2,Never,13,Industrial,Outdoors,5,Regular salt,Yes,Never,56.31950000000001
+45,Filtred_water,Once a week,5,3 times a week,15,Urban,Office,9,Sea salt,Yes,Once a week,35.196999999999996
+51,Tap_water,3 times a week,0,3 times a week,81,Industrial,Factory/Industrial,15,Regular salt,Occasionally,Once a week,50.8865
+38,Filtred_water,3 times a week,2,Once a week,35,Industrial,Outdoors,0,Regular salt,Yes,Every day,40.631
+67,Filtred_water,5 times a week,14,Never,46,Rural,Factory/Industrial,23,Regular salt,Yes,3 times a week,65.833
+33,Filtred_water,3 times a week,14,Never,48,Rural,Factory/Industrial,10,Sea salt,No,Once a week,43.3925
+70,Tap_water,Once a week,5,Never,45,Industrial,Outdoors,10,Sea salt,Yes,Once a week,27.871999999999996
+71,Bottled_water,Never,10,Never,37,Urban,Outdoors,3,Sea salt,Occasionally,3 times a week,42.867000000000004
+72,Filtred_water,Every day,7,Once a week,21,Urban,Home,11,Regular salt,Yes,3 times a week,67.761
+46,Bottled_water,5 times a week,0,Every day,58,Industrial,Office,4,Sea salt,Occasionally,Every day,91.69800000000001
+22,Filtred_water,5 times a week,10,Every day,13,Urban,Office,11,Regular salt,No,3 times a week,70.666
+74,Filtred_water,3 times a week,6,3 times a week,86,Rural,Office,23,Sea salt,No,3 times a week,59.948
+69,Bottled_water,Never,10,Once a week,11,Rural,Office,22,Sea salt,Occasionally,Once a week,53.51649999999999
+45,Bottled_water,3 times a week,9,Never,34,Industrial,Home,22,Regular salt,No,3 times a week,66.531
+42,Tap_water,Never,3,Every day,19,Industrial,Office,12,Regular salt,Occasionally,5 times a week,50.758
+50,Filtred_water,Once a week,14,3 times a week,56,Urban,Office,16,Regular salt,Occasionally,Once a week,46.2655
+63,Filtred_water,Once a week,9,5 times a week,31,Rural,Factory/Industrial,7,Sea salt,No,5 times a week,48.217000000000006
+53,Filtred_water,3 times a week,2,3 times a week,11,Rural,Office,3,Regular salt,No,Once a week,32.854
+57,Filtred_water,3 times a week,8,Once a week,28,Rural,Home,19,Sea salt,No,3 times a week,46.013
+79,Tap_water,Every day,5,3 times a week,83,Rural,Office,19,Regular salt,Yes,Never,75.64999999999999
+22,Tap_water,3 times a week,11,Every day,94,Industrial,Home,11,Sea salt,Yes,5 times a week,73.0955
+57,Filtred_water,3 times a week,1,5 times a week,22,Urban,Outdoors,20,Regular salt,Yes,3 times a week,58.594500000000004
+30,Bottled_water,5 times a week,7,5 times a week,64,Rural,Outdoors,18,Sea salt,No,Never,81.8575
+59,Tap_water,3 times a week,14,Once a week,46,Rural,Factory/Industrial,2,Sea salt,No,Every day,41.9405
+30,Filtred_water,Never,2,Every day,18,Rural,Home,16,Sea salt,Yes,3 times a week,55.889500000000005
+43,Bottled_water,3 times a week,0,5 times a week,11,Rural,Outdoors,1,Regular salt,No,Once a week,54.723
+29,Tap_water,Once a week,13,Every day,9,Rural,Office,10,Sea salt,Occasionally,Never,47.5945
+78,Bottled_water,Never,14,Once a week,94,Urban,Home,20,Sea salt,Yes,5 times a week,69.1075
+38,Tap_water,3 times a week,9,Once a week,38,Rural,Outdoors,0,Sea salt,Yes,Once a week,29.172500000000003
+24,Tap_water,Every day,13,Once a week,10,Rural,Outdoors,21,Regular salt,Yes,Every day,76.76899999999999
+78,Bottled_water,Every day,7,Once a week,0,Rural,Outdoors,22,Regular salt,No,Once a week,87.30349999999999
+30,Bottled_water,Once a week,13,5 times a week,58,Industrial,Home,22,Sea salt,Occasionally,Never,73.566
+42,Filtred_water,5 times a week,5,Every day,87,Urban,Factory/Industrial,11,Regular salt,Yes,Once a week,81.711
+20,Tap_water,5 times a week,6,Never,66,Urban,Factory/Industrial,3,Sea salt,Occasionally,3 times a week,43.242000000000004
+26,Filtred_water,Every day,10,Once a week,27,Urban,Office,3,Sea salt,Yes,5 times a week,66.218
+30,Tap_water,3 times a week,8,Once a week,92,Rural,Home,7,Sea salt,Yes,Once a week,38.695
+44,Tap_water,3 times a week,2,Never,21,Rural,Factory/Industrial,6,Regular salt,Occasionally,Once a week,29.0335
+79,Filtred_water,5 times a week,7,5 times a week,5,Rural,Home,23,Regular salt,Yes,Once a week,64.415
+61,Bottled_water,5 times a week,4,Every day,63,Industrial,Office,13,Sea salt,Occasionally,Once a week,93.0845
+21,Tap_water,5 times a week,3,Once a week,57,Urban,Home,6,Regular salt,No,5 times a week,42.392500000000005
+69,Filtred_water,Every day,12,Once a week,97,Industrial,Home,18,Regular salt,Occasionally,5 times a week,84.58
+57,Bottled_water,Never,10,5 times a week,19,Industrial,Office,16,Regular salt,Occasionally,Once a week,61.78
+41,Tap_water,Never,8,Every day,72,Industrial,Office,20,Regular salt,No,Never,56.887
+30,Bottled_water,5 times a week,11,Every day,91,Rural,Office,9,Sea salt,Yes,3 times a week,98.15700000000001
+59,Tap_water,5 times a week,11,Every day,76,Industrial,Factory/Industrial,15,Regular salt,Occasionally,3 times a week,82.34649999999999
+25,Filtred_water,3 times a week,2,Every day,64,Rural,Factory/Industrial,8,Sea salt,Yes,3 times a week,70.5715
+69,Bottled_water,3 times a week,0,5 times a week,13,Urban,Outdoors,4,Regular salt,Yes,5 times a week,65.7265
+36,Tap_water,3 times a week,2,Once a week,27,Rural,Home,16,Sea salt,No,Never,32.481500000000004
+62,Filtred_water,3 times a week,8,Once a week,76,Urban,Outdoors,4,Sea salt,Yes,Never,40.362500000000004
+52,Bottled_water,Never,5,Never,77,Urban,Home,8,Sea salt,No,3 times a week,46.849500000000006
+59,Tap_water,Once a week,9,Every day,76,Industrial,Outdoors,5,Sea salt,No,3 times a week,54.29550000000001
+52,Bottled_water,Every day,8,5 times a week,18,Urban,Home,13,Regular salt,No,3 times a week,95.02599999999998
+39,Filtred_water,Every day,14,Never,20,Rural,Factory/Industrial,9,Sea salt,Occasionally,Never,65.041
+23,Bottled_water,Every day,2,5 times a week,32,Rural,Outdoors,19,Regular salt,Yes,Once a week,99.83200000000001
+21,Tap_water,Never,7,Never,79,Industrial,Factory/Industrial,12,Regular salt,Yes,Every day,41.519999999999996
+42,Tap_water,Once a week,8,Once a week,86,Rural,Outdoors,10,Sea salt,No,Never,30.017500000000002
+27,Bottled_water,Once a week,0,5 times a week,36,Rural,Outdoors,22,Sea salt,No,5 times a week,71.14349999999999
+35,Tap_water,Once a week,13,Never,52,Urban,Home,6,Sea salt,Yes,Every day,33.7805
+55,Bottled_water,Every day,11,Never,4,Urban,Home,10,Regular salt,Yes,Every day,87.27449999999999
+56,Tap_water,Once a week,3,3 times a week,80,Urban,Factory/Industrial,1,Sea salt,No,5 times a week,36.714
+66,Filtred_water,Once a week,7,5 times a week,99,Industrial,Factory/Industrial,3,Regular salt,Occasionally,5 times a week,54.22050000000001
+78,Filtred_water,Once a week,6,5 times a week,20,Industrial,Outdoors,9,Sea salt,Occasionally,Once a week,41.2445
+73,Bottled_water,Every day,8,Once a week,11,Rural,Office,20,Sea salt,Occasionally,3 times a week,90.1515
+36,Filtred_water,3 times a week,8,5 times a week,83,Urban,Office,23,Sea salt,Occasionally,Once a week,64.747
+77,Filtred_water,Once a week,11,Every day,59,Industrial,Office,12,Sea salt,No,5 times a week,65.587
+22,Bottled_water,Never,3,5 times a week,38,Urban,Factory/Industrial,2,Sea salt,Occasionally,5 times a week,59.167500000000004
+73,Filtred_water,Once a week,5,3 times a week,72,Urban,Office,18,Sea salt,Yes,5 times a week,53.01550000000001
+43,Bottled_water,3 times a week,13,5 times a week,64,Rural,Outdoors,16,Regular salt,Yes,5 times a week,84.3765
+23,Bottled_water,Every day,13,5 times a week,28,Urban,Home,22,Regular salt,Occasionally,3 times a week,105.8795
+19,Tap_water,5 times a week,3,3 times a week,44,Urban,Office,13,Sea salt,Occasionally,3 times a week,50.582
+23,Tap_water,5 times a week,5,3 times a week,76,Rural,Home,21,Regular salt,No,Once a week,56.217999999999996
+75,Filtred_water,Every day,11,5 times a week,92,Industrial,Office,13,Sea salt,No,Never,83.3055
+79,Tap_water,3 times a week,5,5 times a week,59,Urban,Factory/Industrial,19,Sea salt,Occasionally,Once a week,57.638
+24,Bottled_water,3 times a week,13,3 times a week,69,Urban,Home,2,Sea salt,No,Once a week,60.554500000000004
+75,Filtred_water,5 times a week,6,Never,43,Industrial,Outdoors,1,Regular salt,No,5 times a week,42.94950000000001
+65,Filtred_water,5 times a week,2,5 times a week,99,Industrial,Outdoors,21,Sea salt,No,Never,69.4195
+24,Tap_water,Every day,13,3 times a week,84,Industrial,Factory/Industrial,13,Sea salt,Yes,Every day,89.2025
+30,Bottled_water,5 times a week,12,3 times a week,62,Urban,Office,20,Regular salt,No,Once a week,80.8925
+76,Bottled_water,Once a week,14,5 times a week,76,Rural,Factory/Industrial,23,Sea salt,Yes,3 times a week,85.60499999999999
+77,Bottled_water,5 times a week,1,Never,34,Industrial,Office,18,Sea salt,Yes,Once a week,68.634
+43,Bottled_water,Every day,0,3 times a week,54,Industrial,Outdoors,20,Regular salt,Occasionally,3 times a week,99.27199999999999
+78,Filtred_water,Once a week,5,Never,24,Urban,Office,6,Sea salt,Occasionally,5 times a week,29.200499999999998
+50,Tap_water,5 times a week,0,5 times a week,98,Urban,Home,8,Sea salt,Yes,Never,54.1895
+66,Filtred_water,Never,3,5 times a week,63,Rural,Office,18,Regular salt,No,Never,43.1555
+41,Tap_water,Never,3,5 times a week,82,Industrial,Office,1,Sea salt,No,Never,28.5555
+26,Tap_water,Never,14,5 times a week,47,Rural,Home,3,Sea salt,Occasionally,5 times a week,35.779999999999994
+23,Tap_water,Every day,5,Every day,83,Industrial,Office,6,Sea salt,No,Once a week,83.86800000000001
+29,Filtred_water,5 times a week,12,3 times a week,73,Industrial,Outdoors,23,Regular salt,Yes,5 times a week,75.83649999999999
+41,Filtred_water,Never,8,Every day,35,Rural,Factory/Industrial,2,Sea salt,Yes,3 times a week,54.22050000000001
+59,Tap_water,Never,10,3 times a week,0,Urban,Factory/Industrial,13,Regular salt,Occasionally,3 times a week,35.087
+59,Bottled_water,3 times a week,2,Once a week,89,Rural,Outdoors,6,Regular salt,No,Every day,64.4835
+18,Tap_water,Never,7,3 times a week,35,Urban,Home,7,Sea salt,No,3 times a week,26.843
+35,Bottled_water,Once a week,14,Never,5,Industrial,Home,21,Sea salt,Occasionally,Once a week,55.89950000000001
+76,Bottled_water,3 times a week,3,3 times a week,82,Urban,Office,19,Sea salt,Yes,Never,73.33399999999999
+19,Filtred_water,Once a week,7,5 times a week,8,Rural,Outdoors,4,Sea salt,Yes,3 times a week,39.206500000000005
+35,Tap_water,Every day,8,3 times a week,42,Rural,Office,9,Regular salt,Occasionally,Never,62.98799999999999
+50,Filtred_water,5 times a week,7,5 times a week,3,Rural,Office,9,Regular salt,Occasionally,3 times a week,54.51199999999999
+45,Bottled_water,Never,9,5 times a week,15,Rural,Office,7,Regular salt,Occasionally,Never,51.21099999999999
+39,Filtred_water,3 times a week,0,5 times a week,16,Industrial,Office,5,Regular salt,No,Every day,48.5095
+72,Filtred_water,Once a week,13,Once a week,93,Rural,Home,17,Regular salt,No,Every day,50.760000000000005
+53,Filtred_water,3 times a week,10,3 times a week,90,Industrial,Home,4,Regular salt,No,Every day,53.51400000000001
+27,Bottled_water,Never,7,Every day,76,Urban,Factory/Industrial,23,Sea salt,Occasionally,Every day,96.168
+35,Filtred_water,3 times a week,2,3 times a week,51,Rural,Outdoors,11,Sea salt,Occasionally,Once a week,44.983
+24,Filtred_water,Once a week,6,Every day,19,Industrial,Factory/Industrial,11,Sea salt,No,Once a week,58.593500000000006
+53,Tap_water,5 times a week,10,3 times a week,76,Urban,Outdoors,11,Sea salt,Yes,Never,53.73600000000001
+42,Filtred_water,5 times a week,4,3 times a week,10,Urban,Office,5,Sea salt,No,Never,41.639
+34,Filtred_water,3 times a week,3,3 times a week,2,Industrial,Outdoors,2,Sea salt,No,3 times a week,36.396
+56,Bottled_water,Every day,1,5 times a week,49,Rural,Outdoors,7,Regular salt,No,Every day,96.606
+61,Tap_water,Every day,7,3 times a week,25,Rural,Factory/Industrial,16,Regular salt,No,Never,69.8715
+71,Bottled_water,3 times a week,9,Never,31,Rural,Office,22,Sea salt,Yes,3 times a week,67.87349999999999
+33,Filtred_water,Every day,11,Once a week,97,Industrial,Factory/Industrial,23,Regular salt,No,Never,85.82349999999998
+19,Filtred_water,Once a week,10,Never,88,Rural,Factory/Industrial,13,Regular salt,Occasionally,5 times a week,47.191
+69,Tap_water,5 times a week,12,Never,50,Rural,Factory/Industrial,11,Sea salt,No,Never,44.471000000000004
+71,Tap_water,Every day,14,3 times a week,3,Urban,Home,1,Regular salt,No,Never,54.108000000000004
+18,Tap_water,3 times a week,3,5 times a week,1,Rural,Home,11,Sea salt,Yes,3 times a week,43.373000000000005
+54,Filtred_water,3 times a week,6,Once a week,48,Urban,Home,10,Sea salt,Occasionally,Once a week,39.6495
+63,Tap_water,Every day,1,Once a week,54,Urban,Factory/Industrial,11,Sea salt,No,3 times a week,66.011
+43,Tap_water,Never,7,Every day,90,Rural,Factory/Industrial,15,Regular salt,Yes,Never,60.585
+26,Bottled_water,Every day,5,Never,17,Industrial,Office,13,Sea salt,No,Once a week,79.76950000000001
+53,Filtred_water,Never,6,Every day,5,Urban,Home,22,Regular salt,No,Every day,63.23650000000001
+56,Tap_water,Never,12,Once a week,74,Industrial,Office,10,Sea salt,Yes,Never,30.418
+66,Filtred_water,5 times a week,11,Once a week,86,Urban,Home,0,Regular salt,Occasionally,Never,43.776500000000006
+40,Bottled_water,5 times a week,13,Once a week,15,Rural,Outdoors,4,Regular salt,Occasionally,Never,58.89750000000001
+53,Filtred_water,Once a week,6,3 times a week,20,Rural,Factory/Industrial,17,Sea salt,Occasionally,Every day,52.037000000000006
+31,Bottled_water,Every day,7,Never,1,Urban,Outdoors,17,Regular salt,No,5 times a week,86.55099999999997
+35,Tap_water,5 times a week,8,Every day,50,Industrial,Home,20,Regular salt,Occasionally,Once a week,74.77700000000002
+31,Bottled_water,Every day,7,3 times a week,45,Urban,Outdoors,8,Regular salt,No,Every day,94.52449999999999
+33,Tap_water,Every day,3,Never,21,Industrial,Factory/Industrial,3,Sea salt,Occasionally,Every day,61.7205
+50,Tap_water,5 times a week,4,Every day,78,Industrial,Outdoors,3,Sea salt,Yes,Never,64.88650000000001
+75,Tap_water,Every day,3,Once a week,14,Industrial,Factory/Industrial,17,Sea salt,Occasionally,Once a week,66.83550000000001
+28,Bottled_water,3 times a week,14,5 times a week,69,Industrial,Outdoors,12,Regular salt,No,5 times a week,80.917
+70,Bottled_water,Once a week,7,Never,11,Urban,Home,16,Regular salt,Yes,3 times a week,53.39350000000001
+48,Tap_water,5 times a week,11,Never,4,Industrial,Factory/Industrial,3,Sea salt,Occasionally,3 times a week,39.67250000000001
+67,Bottled_water,Every day,7,Every day,1,Rural,Outdoors,11,Regular salt,Yes,Every day,112.78399999999999
+69,Bottled_water,Never,3,3 times a week,40,Rural,Outdoors,12,Regular salt,No,3 times a week,53.63849999999999
+70,Bottled_water,3 times a week,0,Never,39,Rural,Outdoors,3,Sea salt,Yes,5 times a week,54.092000000000006
+78,Filtred_water,3 times a week,8,Never,47,Industrial,Home,3,Sea salt,Occasionally,Never,32.1185
+74,Bottled_water,3 times a week,6,Once a week,49,Industrial,Outdoors,11,Regular salt,Yes,3 times a week,65.1825
+39,Filtred_water,3 times a week,5,Never,36,Industrial,Factory/Industrial,21,Sea salt,No,5 times a week,53.9345
+44,Tap_water,5 times a week,8,5 times a week,92,Rural,Office,5,Sea salt,Yes,3 times a week,57.703
+24,Bottled_water,Never,1,Once a week,27,Urban,Outdoors,13,Sea salt,Yes,3 times a week,50.641000000000005
+22,Filtred_water,Every day,1,3 times a week,29,Urban,Outdoors,20,Sea salt,Occasionally,3 times a week,77.78949999999999
+70,Filtred_water,Every day,8,Once a week,2,Urban,Office,18,Sea salt,No,5 times a week,71.46749999999999
+34,Tap_water,Never,10,3 times a week,94,Industrial,Home,20,Sea salt,Occasionally,Every day,51.181
+64,Filtred_water,Once a week,4,Once a week,15,Rural,Factory/Industrial,9,Sea salt,No,Never,29.626
+35,Bottled_water,Never,10,Every day,29,Rural,Office,3,Sea salt,Yes,5 times a week,71.04199999999999
+41,Filtred_water,Every day,10,5 times a week,54,Industrial,Home,5,Sea salt,No,5 times a week,78.73249999999997
+76,Tap_water,Once a week,0,Every day,4,Urban,Factory/Industrial,11,Regular salt,Occasionally,Once a week,49.674
+54,Filtred_water,Never,9,Once a week,10,Rural,Home,16,Regular salt,No,Never,27.5295
+61,Tap_water,Once a week,13,Every day,77,Urban,Office,1,Regular salt,Yes,3 times a week,53.909000000000006
+22,Filtred_water,3 times a week,7,Never,63,Urban,Outdoors,19,Sea salt,Occasionally,3 times a week,49.463
+64,Tap_water,Once a week,5,5 times a week,16,Industrial,Outdoors,20,Sea salt,No,3 times a week,45.09700000000001
+47,Filtred_water,Every day,0,3 times a week,78,Urban,Outdoors,3,Sea salt,No,Never,64.65199999999999
+44,Bottled_water,3 times a week,9,3 times a week,57,Industrial,Home,7,Regular salt,Yes,5 times a week,70.6415
+68,Tap_water,3 times a week,12,Once a week,28,Industrial,Factory/Industrial,1,Sea salt,Occasionally,Once a week,33.823499999999996
+28,Bottled_water,Never,0,Every day,39,Rural,Outdoors,20,Sea salt,Occasionally,3 times a week,77.88149999999999
+58,Tap_water,Once a week,12,3 times a week,37,Rural,Home,4,Sea salt,Yes,Once a week,30.0515
+47,Filtred_water,Once a week,6,5 times a week,81,Rural,Office,12,Regular salt,Yes,5 times a week,54.3205
+62,Filtred_water,3 times a week,7,3 times a week,77,Rural,Office,8,Sea salt,Occasionally,Never,45.229499999999994
+21,Filtred_water,Once a week,4,Every day,55,Industrial,Office,15,Sea salt,No,Once a week,59.9305
+70,Filtred_water,Every day,6,5 times a week,99,Rural,Factory/Industrial,0,Sea salt,Yes,3 times a week,82.01549999999999
+65,Tap_water,Never,10,5 times a week,12,Industrial,Office,19,Sea salt,Occasionally,Never,38.715500000000006
+20,Filtred_water,Never,9,Once a week,6,Industrial,Factory/Industrial,3,Regular salt,Yes,Once a week,28.0695
+23,Tap_water,5 times a week,4,Every day,91,Industrial,Home,9,Sea salt,Yes,Once a week,70.99050000000001
+38,Bottled_water,Never,10,5 times a week,41,Industrial,Outdoors,13,Sea salt,Yes,Once a week,64.33550000000001
+67,Bottled_water,3 times a week,12,3 times a week,10,Industrial,Outdoors,9,Sea salt,Occasionally,Once a week,62.6685
+34,Filtred_water,3 times a week,12,5 times a week,97,Urban,Office,10,Sea salt,Yes,3 times a week,62.0155
+23,Tap_water,Never,10,Every day,43,Urban,Factory/Industrial,15,Regular salt,No,5 times a week,60.69300000000001
+30,Bottled_water,Every day,10,Every day,55,Urban,Factory/Industrial,14,Sea salt,No,5 times a week,120.98649999999996
+37,Filtred_water,3 times a week,2,Never,75,Rural,Home,2,Regular salt,Yes,Every day,40.98650000000001
+74,Filtred_water,3 times a week,6,Once a week,8,Rural,Office,16,Regular salt,Occasionally,Once a week,39.8575
+69,Filtred_water,5 times a week,0,Every day,75,Urban,Factory/Industrial,18,Regular salt,No,3 times a week,83.58449999999999
+48,Bottled_water,Once a week,12,Every day,89,Urban,Factory/Industrial,23,Sea salt,Occasionally,5 times a week,100.48399999999998
+53,Bottled_water,Once a week,0,3 times a week,99,Rural,Office,3,Regular salt,Yes,Never,53.87
+23,Filtred_water,Once a week,7,3 times a week,98,Urban,Home,8,Sea salt,Occasionally,Once a week,41.6005
+21,Filtred_water,Once a week,10,5 times a week,26,Urban,Outdoors,21,Regular salt,Occasionally,Every day,58.94
+49,Tap_water,Every day,9,Never,78,Urban,Factory/Industrial,12,Regular salt,No,Once a week,67.0775
+32,Bottled_water,Never,4,5 times a week,55,Urban,Factory/Industrial,7,Sea salt,Occasionally,5 times a week,65.132
+61,Bottled_water,3 times a week,2,Once a week,79,Urban,Factory/Industrial,2,Sea salt,Yes,Every day,67.90850000000002
+59,Filtred_water,Once a week,5,Never,36,Urban,Outdoors,23,Sea salt,Yes,Once a week,41.042
+69,Bottled_water,Once a week,11,Every day,95,Industrial,Outdoors,2,Regular salt,No,3 times a week,78.088
+66,Filtred_water,Never,9,5 times a week,4,Industrial,Office,7,Sea salt,No,Every day,41.16250000000001
+57,Tap_water,5 times a week,7,5 times a week,85,Urban,Office,6,Sea salt,Yes,Every day,62.953500000000005
+20,Bottled_water,Never,7,3 times a week,58,Urban,Office,22,Regular salt,Yes,5 times a week,69.9015
+37,Bottled_water,Once a week,3,5 times a week,1,Industrial,Office,11,Regular salt,No,Every day,63.560500000000005
+26,Bottled_water,3 times a week,1,Never,58,Industrial,Home,5,Regular salt,Yes,5 times a week,58.50050000000002
+45,Bottled_water,Once a week,6,5 times a week,47,Urban,Home,0,Regular salt,Yes,5 times a week,60.005500000000005
+28,Bottled_water,3 times a week,1,3 times a week,76,Rural,Office,15,Regular salt,Yes,3 times a week,72.064
+77,Bottled_water,3 times a week,1,Once a week,11,Urban,Factory/Industrial,21,Sea salt,Yes,Every day,75.036
+64,Bottled_water,Never,14,Never,28,Rural,Factory/Industrial,1,Sea salt,No,Never,40.446000000000005
+52,Filtred_water,3 times a week,8,Never,16,Industrial,Factory/Industrial,9,Regular salt,No,Once a week,38.744499999999995
+76,Bottled_water,3 times a week,8,5 times a week,89,Industrial,Office,7,Regular salt,Occasionally,3 times a week,74.84949999999999
+74,Bottled_water,5 times a week,12,Once a week,57,Rural,Office,0,Regular salt,No,Every day,66.7465
+58,Tap_water,Once a week,12,Never,28,Urban,Home,6,Sea salt,Yes,Every day,30.9205
+58,Tap_water,Every day,8,5 times a week,77,Rural,Outdoors,23,Regular salt,No,Never,82.194
+46,Filtred_water,Never,11,Every day,43,Industrial,Factory/Industrial,2,Regular salt,Yes,Every day,62.76700000000001
+53,Filtred_water,5 times a week,3,Once a week,17,Urban,Home,10,Regular salt,Yes,Never,43.17850000000001
+66,Tap_water,5 times a week,10,5 times a week,84,Urban,Factory/Industrial,19,Regular salt,Occasionally,Every day,76.81400000000001
+63,Filtred_water,5 times a week,4,Never,15,Rural,Factory/Industrial,23,Regular salt,Occasionally,5 times a week,59.64
+48,Tap_water,Never,6,5 times a week,83,Urban,Factory/Industrial,10,Sea salt,Yes,Never,43.2565
+32,Bottled_water,Every day,6,Never,73,Urban,Home,19,Sea salt,No,Every day,96.621
+57,Bottled_water,Once a week,7,Never,95,Rural,Office,17,Regular salt,No,Once a week,57.260999999999996
+30,Bottled_water,Once a week,12,5 times a week,90,Urban,Home,6,Regular salt,Occasionally,Every day,71.9315
+79,Tap_water,Every day,13,5 times a week,12,Rural,Office,12,Regular salt,Yes,Once a week,72.2605
+70,Filtred_water,Every day,14,Never,70,Urban,Office,18,Regular salt,No,3 times a week,75.61549999999998
+19,Filtred_water,Once a week,5,5 times a week,87,Rural,Office,19,Regular salt,Yes,3 times a week,57.449999999999996
+69,Tap_water,5 times a week,11,Once a week,42,Urban,Factory/Industrial,3,Sea salt,Yes,Every day,51.98300000000002
+61,Bottled_water,3 times a week,12,Once a week,20,Rural,Home,9,Sea salt,Yes,Never,56.348000000000006
+32,Bottled_water,5 times a week,1,Every day,66,Industrial,Outdoors,12,Regular salt,Occasionally,Never,91.008
+48,Filtred_water,Never,8,Every day,57,Industrial,Outdoors,6,Sea salt,No,Once a week,51.786
+22,Filtred_water,3 times a week,6,5 times a week,7,Urban,Office,21,Sea salt,No,Never,52.239
+47,Bottled_water,5 times a week,6,Never,42,Rural,Office,13,Sea salt,Yes,3 times a week,68.307
+54,Bottled_water,3 times a week,10,Every day,7,Rural,Office,11,Regular salt,No,Every day,85.37
+53,Bottled_water,3 times a week,1,Once a week,29,Rural,Outdoors,6,Sea salt,Occasionally,Never,50.250499999999995
+54,Filtred_water,Once a week,2,5 times a week,35,Industrial,Outdoors,7,Sea salt,No,Once a week,38.720499999999994
+74,Bottled_water,Every day,12,Every day,80,Urban,Home,23,Sea salt,Yes,Once a week,124.03099999999999
+68,Bottled_water,3 times a week,5,Never,36,Urban,Home,7,Regular salt,Yes,Every day,60.63900000000001
+59,Filtred_water,5 times a week,8,3 times a week,65,Urban,Factory/Industrial,1,Sea salt,Yes,Once a week,54.662
+48,Filtred_water,Once a week,9,Never,78,Industrial,Home,11,Sea salt,Occasionally,Never,34.5585
+30,Tap_water,5 times a week,6,Once a week,6,Industrial,Outdoors,3,Regular salt,Occasionally,5 times a week,39.12950000000001
+38,Bottled_water,Every day,1,3 times a week,55,Rural,Factory/Industrial,16,Regular salt,No,Every day,102.94349999999999
+30,Filtred_water,Never,11,Every day,7,Industrial,Factory/Industrial,16,Sea salt,No,5 times a week,64.35000000000001
+26,Tap_water,5 times a week,3,3 times a week,1,Urban,Home,6,Regular salt,Occasionally,Never,36.6235
+78,Bottled_water,Every day,7,3 times a week,56,Rural,Outdoors,19,Regular salt,Occasionally,Every day,104.61099999999999
+76,Filtred_water,3 times a week,8,Every day,66,Urban,Home,5,Sea salt,Occasionally,Once a week,61.817
+51,Tap_water,5 times a week,11,Every day,59,Rural,Home,17,Sea salt,Occasionally,3 times a week,75.371
+71,Bottled_water,5 times a week,3,3 times a week,18,Industrial,Office,10,Regular salt,Occasionally,Never,66.28099999999999
+22,Bottled_water,Never,2,5 times a week,24,Rural,Outdoors,20,Sea salt,Yes,5 times a week,68.3705
+46,Tap_water,Every day,0,3 times a week,94,Urban,Outdoors,0,Regular salt,No,Every day,67.5405
+43,Bottled_water,Every day,3,Once a week,33,Industrial,Outdoors,16,Regular salt,Yes,3 times a week,91.73899999999999
+72,Bottled_water,3 times a week,0,Every day,1,Urban,Outdoors,8,Sea salt,No,3 times a week,75.1405
+32,Tap_water,Never,14,Once a week,37,Urban,Outdoors,12,Sea salt,Occasionally,5 times a week,32.9175
+22,Tap_water,Every day,4,5 times a week,1,Rural,Factory/Industrial,14,Sea salt,Occasionally,Never,71.05749999999999
+74,Tap_water,Once a week,5,Never,10,Urban,Outdoors,7,Regular salt,No,3 times a week,20.438000000000002
+25,Tap_water,3 times a week,4,3 times a week,28,Industrial,Factory/Industrial,22,Regular salt,No,3 times a week,53.597
+52,Bottled_water,Every day,7,Once a week,60,Industrial,Factory/Industrial,3,Sea salt,Occasionally,Never,84.49649999999997
+75,Bottled_water,Every day,7,5 times a week,60,Rural,Outdoors,18,Regular salt,Occasionally,5 times a week,106.96449999999997
+43,Bottled_water,Once a week,10,Never,18,Rural,Office,13,Regular salt,Yes,3 times a week,52.695
+39,Tap_water,Every day,10,Every day,83,Urban,Outdoors,16,Sea salt,No,5 times a week,98.01649999999998
+41,Tap_water,Every day,8,5 times a week,13,Urban,Outdoors,14,Sea salt,Occasionally,5 times a week,76.57049999999998
+49,Tap_water,Every day,13,3 times a week,14,Industrial,Outdoors,10,Regular salt,Yes,3 times a week,70.604
+57,Filtred_water,Every day,9,Never,61,Industrial,Factory/Industrial,11,Regular salt,Occasionally,Never,70.6485
+78,Filtred_water,Every day,11,5 times a week,93,Rural,Office,8,Sea salt,No,3 times a week,81.6785
+69,Bottled_water,5 times a week,6,Never,49,Rural,Home,18,Regular salt,Yes,3 times a week,72.4905
+48,Filtred_water,3 times a week,5,Every day,97,Industrial,Office,9,Regular salt,Yes,Every day,77.7395
+75,Tap_water,Once a week,9,Never,97,Urban,Outdoors,5,Regular salt,Occasionally,Every day,35.495999999999995
+41,Bottled_water,5 times a week,3,Every day,71,Industrial,Outdoors,11,Regular salt,No,Never,90.3945
+75,Filtred_water,Every day,10,5 times a week,25,Urban,Home,3,Sea salt,No,Never,66.88499999999998
+43,Bottled_water,Never,12,3 times a week,65,Rural,Home,8,Sea salt,Yes,3 times a week,58.2855
+62,Bottled_water,Never,5,Once a week,17,Urban,Home,1,Regular salt,Yes,Once a week,38.25600000000001
+27,Tap_water,Once a week,0,Once a week,24,Rural,Factory/Industrial,2,Regular salt,Yes,5 times a week,27.688499999999998
+66,Bottled_water,3 times a week,12,3 times a week,12,Urban,Factory/Industrial,7,Sea salt,No,3 times a week,65.701
+76,Bottled_water,Once a week,8,Every day,65,Urban,Outdoors,22,Sea salt,No,Every day,93.15149999999998
+37,Tap_water,Never,10,Every day,90,Industrial,Outdoors,10,Sea salt,No,5 times a week,58.80400000000001
+31,Tap_water,Once a week,3,Every day,76,Rural,Home,3,Regular salt,Yes,Every day,55.741000000000014
+72,Filtred_water,Every day,0,Once a week,30,Urban,Outdoors,9,Sea salt,No,3 times a week,62.803
+78,Tap_water,3 times a week,7,Once a week,9,Urban,Factory/Industrial,15,Regular salt,No,5 times a week,43.58500000000001
+39,Bottled_water,Every day,7,Once a week,28,Rural,Outdoors,10,Regular salt,No,Once a week,81.0175
+71,Bottled_water,Every day,13,5 times a week,10,Industrial,Factory/Industrial,21,Sea salt,Occasionally,3 times a week,109.4215
+77,Bottled_water,Every day,6,5 times a week,96,Rural,Home,17,Regular salt,Yes,Never,104.068
+31,Bottled_water,5 times a week,5,3 times a week,28,Rural,Outdoors,16,Sea salt,Yes,Every day,82.3085
+20,Filtred_water,Never,8,Once a week,42,Urban,Outdoors,17,Regular salt,Yes,3 times a week,39.603
+41,Tap_water,3 times a week,14,5 times a week,97,Urban,Home,19,Sea salt,Occasionally,Every day,67.244
+69,Bottled_water,Never,2,Every day,5,Rural,Factory/Industrial,21,Sea salt,Occasionally,5 times a week,82.351
+77,Filtred_water,Every day,10,5 times a week,73,Rural,Factory/Industrial,10,Sea salt,Occasionally,Never,82.8635
+41,Tap_water,5 times a week,8,3 times a week,89,Industrial,Factory/Industrial,11,Regular salt,No,5 times a week,62.74150000000001
+62,Filtred_water,Every day,4,3 times a week,67,Rural,Outdoors,13,Sea salt,Occasionally,5 times a week,79.37999999999998
+45,Filtred_water,5 times a week,9,Never,67,Urban,Office,5,Regular salt,Yes,Never,44.495000000000005
+27,Tap_water,Once a week,5,Every day,18,Rural,Home,8,Regular salt,No,5 times a week,48.853500000000004
