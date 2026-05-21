@@ -184,3 +184,40 @@ if st.session_state.pagina == 'rezultat':
 
     rezultat = model.predict(input_data)[0]
     st.metric("Estimated microplastics in your body", f"{rezultat:.2f} mg/year")
+
+
+    st.caption("⚠️ Values represent estimated annual microplastic ingestion, not tissue accumulation.")
+
+    st.markdown("---")
+    st.subheader("How do you compare?")
+
+    media_populatie = 71.50
+
+    if rezultat < media_populatie * 0.5:
+        st.success("Your exposure is significantly below average.")
+    elif rezultat < media_populatie:
+        st.info("Your exposure is below average.")
+    elif rezultat < media_populatie * 1.5:
+        st.warning("Your exposure is above average.")
+    else:
+        st.error("Your exposure is significantly above average.")
+
+
+        st.markdown("---")
+    st.subheader("Recommendations")
+
+    if st.session_state.apa == "Bottled_water":
+        st.write("💧 Switch from bottled water to filtered tap water to significantly reduce your exposure.")
+
+    if st.session_state.alimente in ["5 times a week", "Every day"]:
+        st.write("🥗 Reduce consumption of processed food packaged in plastic.")
+
+    if st.session_state.haine > 70:
+        st.write("👕 Consider replacing some synthetic clothing with natural fibers (cotton, wool, linen).")
+
+    if st.session_state.zona == "Industrial":
+        st.write("🏭 Living in an industrial area increases your exposure — consider air purifiers indoors.")
+
+    if st.session_state.fumat == "Yes":
+        st.write("🚬 Quitting smoking would reduce your microplastic inhalation significantly.")
+        
