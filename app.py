@@ -1,4 +1,9 @@
+import pandas as pd
+import numpy as np
 import streamlit as st
+import joblib
+model = joblib.load("model.pkl")
+
 if 'pagina' not in st.session_state:
     st.session_state.pagina = 'intro'
 
@@ -154,4 +159,28 @@ if st.session_state.pagina == 'intrebari':
             st.session_state.cosmetice = cosmetice
             st.session_state.pagina = 'rezultat'
             st.rerun()
-            
+
+if st.session_state.pagina == 'rezultat':
+    st.title("Your Results")
+
+
+    input_data = pd.DataFrame({
+        "varsta": [st.session_state.varsta],
+        "sursa_de_apa": [st.session_state.apa],
+        "alimente_procesate":[st.session_state.alimente],
+        "peste_sau_fructe_de_mare":[st.session_state.peste],
+        "recipiente_de_plastic":[st.session_state.recipiente],
+        "haine_sintetice":[st.session_state.haine],
+        "tipul_zonei":[st.session_state.zona],
+        "mediul_de_lucru":[st.session_state.munca],
+        "ore_petrecute_in_interior":[st.session_state.interior],
+        "tipul_de_sare":[st.session_state.sare],
+        "fumatul":[st.session_state.fumat],
+        "cosmetice":[st.session_state.cosmetice]
+    })
+
+    input_data = pd.get_dummies(input_data)
+    input_data = input_data.reindex(columns=model.feature_names_in_, fill_value=0)
+
+    rezultat = model.predict(input_data)[0]
+    st.metric("Estimated microplastics in your body", f"{rezultat:.2f} mg/year")
