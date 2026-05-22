@@ -25,3 +25,6 @@ This appliation has the role to roughly estimate the quantity of microplastics(m
 3. Cosmetics scoring based on limited post-microbeads-ban literature
 4. Population average (88mg/year) is a temporary estimate, pending validation from peer-reviewed biomonitoring studies
 5. Model trained on synthetic data - accuracy may differ on real-world populations 
+
+## Live Demo
+[Click here to try the app](https://microplastic-quiz-2ocfdazmjyb57mgctkh42m.streamlit.app/)
